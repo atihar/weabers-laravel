@@ -214,7 +214,7 @@
 
                     <div class="container section-title d-flex text-center flex-column align-items-center mb-70">
                         <h5 class="sup-title theme-color mb-10 dsn-up"><span>04</span>OUR WORK</h5>
-                        <h2 class="section-title dsn-text-shadow text-transform-upper text-center dsn-text">Latest
+                        <h2 class="section-title dsn-text-shadow text-transform-upper text-center dsn-text">Featured
                             Projects</h2>
                     </div>
 
@@ -232,11 +232,10 @@
                                 <div class="box-content p-absolute bottom-0 border text-center">
                                     <div class="box-content-inner">
                                         <div class="metas d-inline-block mb-15">
-                                            <span>product</span> <span>art direction</span>
+                                            <span>startup</span> <span>finance</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project.html">Cowboy 4
-                                                ST</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="project.html">Finapp</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -253,11 +252,10 @@
                                 <div class="box-content p-absolute bottom-0 border text-center">
                                     <div class="box-content-inner">
                                         <div class="metas d-inline-block mb-15">
-                                            <span>watch</span> <span>Nike</span>
+                                            <span>website</span> <span>media</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-2.html">FUEL
-                                                WATCH</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-2.html">Triana Studio</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -274,11 +272,10 @@
                                 <div class="box-content p-absolute bottom-0 border text-center">
                                     <div class="box-content-inner">
                                         <div class="metas d-inline-block mb-15">
-                                            <span> Photography</span><span>Car</span>
+                                            <span> app</span><span>tourism</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-7.html">FORD
-                                                RAPTOR</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-7.html">Travel Notes</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -295,11 +292,10 @@
                                 <div class="box-content p-absolute bottom-0 border text-center">
                                     <div class="box-content-inner">
                                         <div class="metas d-inline-block mb-15">
-                                            <span>product</span> <span>mask</span>
+                                            <span>SAAS</span> <span>fashion</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-3.html">NGA
-                                                Mask</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-3.html">ESTUCY</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -316,11 +312,10 @@
                                 <div class="box-content p-absolute bottom-0 border text-center">
                                     <div class="box-content-inner">
                                         <div class="metas d-inline-block mb-15">
-                                            <span>Production</span> <span>Design</span>
+                                            <span>app</span> <span>brand</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-6.html">Allbirds
-                                                Brand</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-6.html">AMIRS</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -337,11 +332,10 @@
                                 <div class="box-content p-absolute bottom-0 border text-center">
                                     <div class="box-content-inner">
                                         <div class="metas d-inline-block mb-15">
-                                            <span>Bicycle</span> <span>photography</span>
+                                            <span>platform</span> <span>carbon</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-5.html">Santacruz
-                                                Bicycle</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-5.html">Floresta</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -437,116 +431,7 @@
                 </div>
                 <!-- ========== End Section ========== -->
 
-                <!-- ========== testimonials ========== -->
-                <section class="testimonials dsn-swiper section-margin" data-dsn-option='{"effect":"fade"}'
-                    data-dsn-animate="section">
-                    <div class="container section-title d-flex text-center flex-column align-items-center mb-70">
-                        <h5 class="sup-title theme-color mb-10 dsn-up"><span>06</span>TESTIMONIALS</h5>
-                        <h2 class="section-title dsn-text-shadow text-transform-upper dsn-text">SOME USERS FEEDBACK</h2>
-                    </div>
-
-                    <div class="container">
-                        <div class="testimonials-inner">
-                            <div class="qt text-center mb-30">
-                                <span class="icon border background-main p-10">
-                                    <span class="icon-inner ion-quote background-section"></span>
-                                </span>
-                            </div>
-
-                            <div class="swiper-container">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide testimonial-item ">
-                                        <div class="testimonial-content text-center" data-swiper-parallax-opacity="0">
-                                            <p class="heading-color">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                Alias aliquam asperiores consectetur, consequatur dicta doloremque
-                                                ducimus iure omnis perspiciatis possimus provident quibusdam quis
-                                                repudiandae,
-
-                                            </p>
-                                        </div>
-
-                                        <div class="testimonial-author mt-30 d-flex justify-content-center align-items-center"
-                                            data-swiper-parallax-opacity="0" data-swiper-parallax="-5%">
-                                            <div class="author  mr-15">
-                                                <img src="assets/img/avatar/1.jpg" alt="">
-                                            </div>
-                                            <div class="author-text">
-                                                <h4 class="sm-title-block letter-spacing-2 mb-5 fw-400">Hellstar Works
-                                                </h4>
-                                                <h5 class="sup-title theme-color">Envato Customer</h5>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide testimonial-item ">
-
-                                        <div class="testimonial-content text-center" data-swiper-parallax-opacity="0">
-                                            <p class="heading-color">
-                                                " The designer is just amazing! Very good quality and taste.
-                                                This template is incredible beautiful. The overall impression is more
-                                                than good.The support cannot be better. I wish
-                                                the team all success! "
-                                            </p>
-                                        </div>
-
-                                        <div class="testimonial-author mt-30 d-flex justify-content-center align-items-center"
-                                            data-swiper-parallax-opacity="0" data-swiper-parallax="-5%">
-                                            <div class="author  mr-15">
-                                                <img src="assets/img/avatar/1.jpg" alt="">
-                                            </div>
-                                            <div class="author-text">
-                                                <h4 class="sm-title-block letter-spacing-2 mb-5 fw-400">Names News
-                                                </h4>
-                                                <h5 class="sup-title theme-color">DsnGrid Customer</h5>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="dsn-pagination mt-30 d-flex justify-content-between align-items-center">
-                                    <div class="swiper-prev">
-                                        <div class="prev-container">
-                                            <div class="container-inner background-section">
-                                                <svg viewBox="0 0 6 10">
-                                                    <path
-                                                        d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                    </path>
-                                                </svg>
-                                                <svg viewBox="0 0 6 10">
-                                                    <path
-                                                        d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                    </path>
-                                                </svg>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-pagination background-section"></div>
-
-                                    <div class="swiper-next">
-
-                                        <div class="next-container">
-                                            <div class="container-inner background-section">
-                                                <svg viewBox="0 0 6 10">
-                                                    <path
-                                                        d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                    </path>
-                                                </svg>
-                                                <svg viewBox="0 0 6 10">
-                                                    <path
-                                                        d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                    </path>
-                                                </svg>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!-- ========== End testimonials ========== -->
+                @include('components.testimonials')
 
                 <section class="blog section-padding background-section" data-dsn-animate="section">
                     <div class="container section-title mb-70">

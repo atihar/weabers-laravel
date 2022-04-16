@@ -47,7 +47,7 @@
                     <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>OUR SERVICES</h5>
 
                     <h2 class="section-title dsn-text-shadow text-transform-upper dsn-text">
-                        New Branding Agency</h2>
+                        Product Design Agency</h2>
                 </div>
 
                 <div class="container">
@@ -57,7 +57,7 @@
                             <span class="number p-large fw-400 theme-color dsn-up">01</span>
                             <div class="d-grid grid-lg-2 pt-20 mt-20">
                                 <span class="line"></span>
-                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Art Direction</h4>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Mapping & Research</h4>
                                 <p class="dsn-up">Each of my clients is a partner whom I help to achieve small
                                     financial
                                     goals. Whether it's the purchase of a new car or a long-awaited vacation, we
@@ -70,7 +70,7 @@
                             <span class="number p-large fw-400 theme-color dsn-up">02</span>
                             <div class="d-grid grid-lg-2 pt-20 mt-20">
                                 <span class="line"></span>
-                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Digital Identity</h4>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Product Development</h4>
                                 <p class="dsn-up">Each of my clients is a partner whom I help to achieve small
                                     financial
                                     goals. Whether it's the purchase of a new car or a long-awaited vacation, we
@@ -82,7 +82,7 @@
                             <span class="number p-large fw-400 theme-color dsn-up">03</span>
                             <div class="d-grid grid-lg-2 pt-20 mt-20">
                                 <span class="line"></span>
-                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">User Experience</h4>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Enhance Experience</h4>
                                 <p class="dsn-up">Each of my clients is a partner whom I help to achieve small
                                     financial
                                     goals. Whether it's the purchase of a new car or a long-awaited vacation, we
@@ -143,116 +143,7 @@
             </div>
             <!-- ========== End Feature ========== -->
 
-            <!-- ========== testimonials ========== -->
-            <section class="testimonials dsn-swiper section-margin" data-dsn-option='{"effect":"fade"}'
-                data-dsn-animate="section">
-                <div class="container section-title d-flex text-center flex-column align-items-center mb-70">
-                    <h5 class="sup-title theme-color mb-10 dsn-up"><span>02</span>TESTIMONIALS</h5>
-                    <h2 class="section-title dsn-text-shadow text-transform-upper dsn-text">SOME USERS FEEDBACK</h2>
-                </div>
-
-                <div class="container">
-                    <div class="testimonials-inner">
-                        <div class="qt text-center mb-30">
-                            <span class="icon border background-main p-10">
-                                <span class="icon-inner ion-quote background-section"></span>
-                            </span>
-                        </div>
-
-                        <div class="swiper-container">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide testimonial-item ">
-                                    <div class="testimonial-content text-center" data-swiper-parallax-opacity="0">
-                                        <p class="heading-color">
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Alias aliquam asperiores consectetur, consequatur dicta doloremque
-                                            ducimus iure omnis perspiciatis possimus provident quibusdam quis
-                                            repudiandae,
-
-                                        </p>
-                                    </div>
-
-                                    <div class="testimonial-author mt-30 d-flex justify-content-center align-items-center"
-                                        data-swiper-parallax-opacity="0" data-swiper-parallax="-5%">
-                                        <div class="author  mr-15">
-                                            <img src="assets/img/avatar/1.jpg" alt="">
-                                        </div>
-                                        <div class="author-text">
-                                            <h4 class="sm-title-block letter-spacing-2 mb-5 fw-400">Hellstar Works
-                                            </h4>
-                                            <h5 class="sup-title theme-color">Envato Customer</h5>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide testimonial-item ">
-
-                                    <div class="testimonial-content text-center" data-swiper-parallax-opacity="0">
-                                        <p class="heading-color">
-                                            " The designer is just amazing! Very good quality and taste.
-                                            This template is incredible beautiful. The overall impression is more
-                                            than good.The support cannot be better. I wish
-                                            the team all success! "
-                                        </p>
-                                    </div>
-
-                                    <div class="testimonial-author mt-30 d-flex justify-content-center align-items-center"
-                                        data-swiper-parallax-opacity="0" data-swiper-parallax="-5%">
-                                        <div class="author  mr-15">
-                                            <img src="assets/img/avatar/1.jpg" alt="">
-                                        </div>
-                                        <div class="author-text">
-                                            <h4 class="sm-title-block letter-spacing-2 mb-5 fw-400">Names News
-                                            </h4>
-                                            <h5 class="sup-title theme-color">DsnGrid Customer</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="dsn-pagination mt-30 d-flex justify-content-between align-items-center">
-                                <div class="swiper-prev">
-                                    <div class="prev-container">
-                                        <div class="container-inner background-section">
-                                            <svg viewBox="0 0 6 10">
-                                                <path
-                                                    d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                </path>
-                                            </svg>
-                                            <svg viewBox="0 0 6 10">
-                                                <path
-                                                    d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                </path>
-                                            </svg>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-pagination background-section"></div>
-
-                                <div class="swiper-next">
-
-                                    <div class="next-container">
-                                        <div class="container-inner background-section">
-                                            <svg viewBox="0 0 6 10">
-                                                <path
-                                                    d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                </path>
-                                            </svg>
-                                            <svg viewBox="0 0 6 10">
-                                                <path
-                                                    d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
-                                                </path>
-                                            </svg>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- ========== End testimonials ========== -->
+            @include('components.testimonials')
 
             <!-- ========== Team ========== -->
             <section class="team section-padding background-section" data-dsn-animate="section">
@@ -362,7 +253,7 @@
                         <div class="box-info p-relative">
 
                             <h5 class="sup-title theme-color mb-10 dsn-up"><span>04</span>About Us</h5>
-                            <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper dsn-text">OUR VALUES
+                            <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper dsn-text">FOR THE FUTURE
                             </h2>
                             <div class="">
                                 <ul>
@@ -411,7 +302,7 @@
                             <div class="section-title d-flex text-center flex-column align-items-center">
                                 <h5 class="sup-title theme-color mb-10">See How we are creating impact</h5>
                                 <h2 class="section-title dsn-text-shadow  before-text text-transform-upper text-center"
-                                    data-text="We are hiring">View Portfolio</h2>
+                                    data-text="View Portfolio">View Portfolio</h2>
                             </div>
 
                         </a>
