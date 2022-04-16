@@ -221,9 +221,9 @@
                             <div class="bg-circle-dotted"></div>
 
                             <div class="section-title d-flex text-center flex-column align-items-center">
-                                <h5 class="sup-title theme-color mb-10">Dare and contact us immediately</h5>
+                                <h5 class="sup-title theme-color mb-10">Planning to discuss a full project?</h5>
                                 <h2 class="section-title dsn-text-shadow  before-text text-transform-upper text-center"
-                                    data-text="We are hiring">We are hiring</h2>
+                                    data-text="Contact Us">Contact Us</h2>
                             </div>
 
                         </a>
