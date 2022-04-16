@@ -11,10 +11,9 @@
             <div class="container">
                 <div class="content-hero p-relative d-flex flex-column h-100 dsn-hero-parallax-content">
                     <p class="subtitle p-relative letter-spacing-2">
-                        <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">SOME OF OUR
-                            LATEST</span>
+                        <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">Elements for branding</span>
                     </p>
-                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">OUR WORKS</h1>
+                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Community For Creatives</h1>
                     <p class="p-large">Kindly refrain from calling us an “agency.” We are a collective built by
                         artists, engineers,
                         and makers; united by a shared passion for cultural relevance and timeless creative.</p>
@@ -35,17 +34,17 @@
                                 <div class="filtering">
                                     <div class="selector"></div>
                                     <button type="button" data-filter="*" class="active">All</button>
-                                    <button type="button" data-filter=".brand">Brand</button>
-                                    <button type="button" data-filter=".photography">Photography</button>
-                                    <button type="button" data-filter=".fashion">Fashion</button>
-                                    <button type="button" data-filter=".product">Product</button>
+                                    <button type="button" data-filter=".brand">Social</button>
+                                    <button type="button" data-filter=".photography">Video</button>
+                                    <button type="button" data-filter=".fashion">Startup</button>
+                                    <button type="button" data-filter=".product">Presentation</button>
                                 </div>
                             </div>
                         </div>
                         <div class="w-100 dsn-item-filter dsn-isotope dsn-masonry d-grid grid-lg-2 grid-md-2"
                             data-dsn-item=".work-item" data-dsn-isotope='{"space": 30 }'>
 
-                            <a href="project.html"
+                            <a href="#"
                                 class="work-item induction photography architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
@@ -57,11 +56,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2022</span>
-                                                    <span>product</span> <span>art direction</span>
+                                                    <span class="date v-light background-main">Social</span>
+                                                    <span>Instagram</span> <span>branded story</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    Cowboy Machine</h4>
+                                                    $149.00</h4>
                                             </div>
 
                                         </div>
@@ -69,7 +68,7 @@
                                 </div>
                             </a>
 
-                            <a href="project-2.html"
+                            <a href="#"
                                 class="work-item induction photography architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
@@ -81,12 +80,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2022</span>
-                                                    <span>watch</span> <span>Nike</span>
+                                                    <span class="date v-light background-main">Business</span>
+                                                    <span>The Business Proposal</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    FUEL
-                                                    WATCH</h4>
+                                                    $59.00</h4>
                                             </div>
 
                                         </div>
@@ -94,7 +92,7 @@
                                 </div>
                             </a>
 
-                            <a href="project-3.html"
+                            <a href="#"
                                 class="work-item induction photography architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
@@ -106,12 +104,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2022</span>
-                                                    <span>product</span> <span>mask</span>
+                                                    <span class="date v-light background-main">Brand</span>
+                                                    <span>Style</span> <span>Guide Kit</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    NGA
-                                                    Mask</h4>
+                                                    $199.00</h4>
                                             </div>
 
                                         </div>
@@ -119,7 +116,7 @@
                                 </div>
                             </a>
 
-                            <a href="project-4.html"
+                            <a href="#"
                                 class="work-item induction photography architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
@@ -131,12 +128,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2022</span>
-                                                    <span>Product</span> <span>Personal</span>
+                                                    <span class="date v-light background-main">Startup</span>
+                                                    <span>Investor Pitch Deck</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    Clutop
-                                                    Cover</h4>
+                                                    $29.00</h4>
                                             </div>
 
                                         </div>
@@ -144,7 +140,7 @@
                                 </div>
                             </a>
 
-                            <a href="project-5.html" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -155,11 +151,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2022</span>
-                                                    <span>Bicycle</span> <span>photography</span>
+                                                    <span class="date v-light background-main">Brand</span>
+                                                    <span>Product Promotion Video</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    Santacruz Bicycle</h4>
+                                                    $499.00</h4>
                                             </div>
 
                                         </div>
@@ -167,7 +163,7 @@
                                 </div>
                             </a>
 
-                            <a href="project-6.html" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -178,11 +174,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2021</span>
-                                                    <span>Production</span> <span>Design</span>
+                                                    <span class="date v-light background-main">Presentation</span>
+                                                    <span>MVP Mockup + Animation</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    Allbirds Brand</h4>
+                                                    $349.00</h4>
                                             </div>
 
                                         </div>
@@ -190,7 +186,7 @@
                                 </div>
                             </a>
 
-                            <a href="project-7.html" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -201,12 +197,11 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">2019</span>
-                                                    <span>Photography</span> <span>Car</span>
+                                                    <span class="date v-light background-main">Social Media</span>
+                                                    <span>Campaign Guideline 2022</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    FORD
-                                                    RAPTOR</h4>
+                                                    $299.00</h4>
                                             </div>
 
                                         </div>
