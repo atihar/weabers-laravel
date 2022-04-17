@@ -17,7 +17,7 @@
                                 </span>
                             </p>
                             <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Your Partner for next big leap</h1>
-                            <a href="about.html" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
+                            <a href="/about" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                 <span>
                                     <span class="left"></span>
                                     <span class="center"></span>

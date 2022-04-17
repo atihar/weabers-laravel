@@ -49,7 +49,7 @@
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project1/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/1.jpg"
                                             alt="" data-dsn-position="100% 50%">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
@@ -73,7 +73,7 @@
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project2/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/2.jpg"
                                             alt="">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
@@ -97,7 +97,7 @@
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project3/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/3.jpg"
                                             alt="">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
@@ -121,7 +121,7 @@
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project4/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/4.jpg"
                                             alt="" data-dsn-position="85% 50%">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
@@ -144,7 +144,7 @@
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project5/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/5.jpg"
                                             alt="">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
@@ -167,7 +167,7 @@
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project6/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/6.jpg"
                                             alt="">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
@@ -186,7 +186,7 @@
                                 </div>
                             </a>
 
-                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
+                            {{-- <a href="#" class="work-item induction photography p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -207,7 +207,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </a>
+                            </a> --}}
                         </div>
                     </div>
                 </div>
