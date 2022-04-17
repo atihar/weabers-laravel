@@ -32,15 +32,20 @@
                             <h4
                                 class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
                                 Email Address</h4>
-                            <a class="d-block" href="#">info@dsngrid.com</a>
-                            <a class="d-block" href="#">jobs@dsngrid.com</a>
+                            <a class="d-block" href="#">info@weabers.com</a>
+                            <a class="d-block" href="#">hello@weabers.com</a>
                         </div>
 
                         <div class="item dsn-up">
                             <h4
                                 class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
                                 Address</h4>
-                            <p class="heading-color">New York <br> 9111 Thornridge Cir.<br> Shiloh, New York 81063
+                            <p class="heading-color">302 East 8th Street, Brooklyn<br> USA
+                            </p>
+                            <h4
+                                class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
+                                Address 2</h4>
+                            <p class="heading-color">123 Rickson Ave, Ontario <br> CANADA
                             </p>
                         </div>
 
@@ -48,8 +53,8 @@
                             <h4
                                 class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
                                 Contact</h4>
-                            <a class="d-block" href="#">+00 (2) 010 2452 406</a>
-                            <a class="d-block" href="#">+51 (0) 232 654 879</a>
+                            <a class="d-block" href="#">+1 347 922 0840</a>
+                            <a class="d-block" href="#">+1 519 400 4667</a>
                         </div>
                     </div>
                 </div>
@@ -85,9 +90,9 @@
 
                                     <div class="form-group dsn-up">
                                         <div class="entry-box">
-                                            <label>Your E-Mail *</label>
+                                            <label>Where should we get back?*</label>
                                             <input id="form_email" type="email" name="email"
-                                                placeholder="Type your Email Address" required="required"
+                                                placeholder="yourname@email.com" required="required"
                                                 data-error="Valid email is required.">
                                         </div>
                                         <div class="help-block with-errors"></div>
@@ -97,7 +102,7 @@
                                         <div class="entry-box">
                                             <label>What's up?</label>
                                             <textarea id="form_message" class="form-control" name="message"
-                                                placeholder="Tell us about you and the world" required="required"
+                                                placeholder="Tell us about your idea" required="required"
                                                 data-error="Please,leave us a message."></textarea>
                                         </div>
                                         <div class="help-block with-errors"></div>
@@ -120,7 +125,7 @@
             <div class="next-page section-padding background-section" data-dsn-animate="section">
                 <div class="container">
                     <div class="next-page-inner background-section border p-10  dsn-up">
-                        <a href="about.html"
+                        <a href="/about"
                             class="background-main effect-ajax section-padding w-100 p-relative over-hidden">
                             <div class="bg-circle-dotted"></div>
 
@@ -134,8 +139,6 @@
                     </div>
                 </div>
             </div>
-
-          @include('components.footer')
         </div>
     </div>
 </main>

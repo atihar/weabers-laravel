@@ -160,9 +160,9 @@
                             </div>
 
                             <div class="box-text">
-                                <h4 class="sm-title-block letter-spacing-2 mb-5 text-uppercase fw-400">Ahmed shawky
+                                <h4 class="sm-title-block letter-spacing-2 mb-5 text-uppercase fw-400">Ahmed tahsin
                                 </h4>
-                                <h5 class="job theme-color sup-title fw-400">Art Director</h5>
+                                <h5 class="job theme-color sup-title fw-400">Brand Artist</h5>
 
                                 <ul class="social border-top pt-15 mt-15">
                                     <li>
@@ -186,9 +186,9 @@
                             </div>
 
                             <div class="box-text">
-                                <h4 class="sm-title-block letter-spacing-2 mb-5 text-uppercase fw-400">Jone Darlene
+                                <h4 class="sm-title-block letter-spacing-2 mb-5 text-uppercase fw-400">Atihar Hossen
                                 </h4>
-                                <h5 class="job theme-color sup-title fw-400">CEO / Architect</h5>
+                                <h5 class="job theme-color sup-title fw-400">CEO / Product Manager</h5>
 
                                 <ul class="social border-top pt-15 mt-15">
                                     <li>
@@ -212,9 +212,9 @@
                             </div>
 
                             <div class="box-text">
-                                <h4 class="sm-title-block letter-spacing-2 mb-5 text-uppercase fw-400">Martin Tyrell
+                                <h4 class="sm-title-block letter-spacing-2 mb-5 text-uppercase fw-400">Ibne jahish
                                 </h4>
-                                <h5 class="job theme-color sup-title fw-400">Designer</h5>
+                                <h5 class="job theme-color sup-title fw-400">Product Consultant</h5>
 
                                 <ul class="social border-top pt-15 mt-15">
                                     <li>
