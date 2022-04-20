@@ -15,9 +15,9 @@
                             LATEST</span>
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">OUR WORKS</h1>
-                    <p class="p-large">Kindly refrain from calling us an “agency.” We are a collective built by
-                        artists, engineers,
-                        and makers; united by a shared passion for cultural relevance and timeless creative.</p>
+                    <p class="p-large">We've shipped over 80 digital products in the past six years. 
+                        Most of which, we designed and built from the ground up. Here's a few of our favorites:
+                    </p>
                 </div>
             </div>
             <div class="dsn-container dsn-right-container border-bottom pt-section"></div>

@@ -57,7 +57,7 @@
                                     <b>Table of content</b><br>                             
                                     • <a href="">Setting product goal</a><br>
                                     • <a href="">Sketch of the screens(low fidelity)</a><br>
-                                    • <a href="">Competetive market research</a><br>
+                                    • <a href="">Competitive market research</a><br>
                                     • <a href="">Writing features in technical requirement doc</a><br>
                                     • <a href="">Interface Design (high fidelity)</a><br>
                                     • <a href="">MVP build</a><br>
@@ -71,7 +71,7 @@
                                     
                                     
                                     <b>Setting product goal</b><br>
-                                    Your app project won’t be successful unless you set your project goals and track their attainment using a specific set of criteria from the start. What you want to acheive through this 
+                                    Your app project won’t be successful unless you set your project goals and track their attainment using a specific set of criteria from the start. What you want to achieve through this 
                                         app, who are going to be the users, how they will use this etc. such objective's rough idea comes out in this stage. Cause blueprint of the product is this stage.
                                     <br><br>
     
@@ -264,28 +264,28 @@
 
                                     <div class="post-tags p-relative">
                                         <a class="fz-16" href="#">
-                                            <span class="post_tag post_tag">Blog</span>
+                                            <span class="post_tag post_tag">Product LifeCycle</span>
                                         </a>
                                         <a class="fz-16" href="#">
-                                            <span class="post_tag post_tag">Creative</span>
+                                            <span class="post_tag post_tag">DesignYourBrand</span>
                                         </a>
                                     </div>
 
                                     <div class="pagination-post d-flex border-top border-bottom">
                                         <div
                                             class="pagination-item heading-color text-uppercase border-right border-left w-100">
-                                            <a href="post.html" class="effect-ajax">PREVIOUS POST</a>
+                                            <a href="/portfolio" class="effect-ajax">Our Works</a>
                                         </div>
 
                                         <div class="icon  heading-color">
-                                            <a href="post.html" class="effect-ajax">
+                                            <a href="/" class="effect-ajax">
                                                 <i class="fas fa-th-large"></i>
                                             </a>
                                         </div>
 
                                         <div
                                             class="pagination-item heading-color text-right text-uppercase border-right border-left w-100">
-                                            <a href="post.html" class="effect-ajax">NEXT POST</a>
+                                            <a href="/faq" class="effect-ajax">FAQs</a>
                                         </div>
                                     </div>
                                 </div>

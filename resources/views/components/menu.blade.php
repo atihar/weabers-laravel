@@ -29,7 +29,7 @@
                 <ul class="extend-container p-relative d-flex flex-column justify-content-center h-100">
 
                     <li class="dsn-drop-down">
-                        <a href="/" class="user-no-selection">
+                        <a href="/services" class="user-no-selection">
 
                             <span class="dsn-title-menu">Services</span>
                             <span class="dsn-meta-menu">01</span>
@@ -40,7 +40,7 @@
                     <li class="dsn-drop-down">
                         <a href="/about" class="user-no-selection">
 
-                            <span class="dsn-title-menu">What We Do</span>
+                            <span class="dsn-title-menu">What we do</span>
                             <span class="dsn-meta-menu">03</span>
                             <span class="dsn-bg-arrow"></span>
                         </a>
@@ -49,13 +49,21 @@
                             <li class="dsn-back-menu">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                     data-dsn-src="assets/img/left-chevron.svg" alt="">
-                                <span class="dsn-title-menu">About</span>
+                                <span class="dsn-title-menu">What we do</span>
                             </li>
+
+
+                            <li class="dsn-back-menu">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                    data-dsn-src="assets/img/left-chevron.svg" alt="">
+                                <span class="dsn-title-menu">Our Process</span>
+                            </li>
+
 
                             <li>
                                 <a href="/our-process">
                                     <span class="dsn-title-menu">Our Process</span>
-                                    <span class="dsn-meta-menu">01</span>
+                                    <span class="dsn-meta-menu">02</span>
                                 </a>
                             </li>
 

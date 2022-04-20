@@ -230,51 +230,7 @@
                     </div>
                 </div>
             </div>
-
-            <footer class="footer pt-60">
-                <div class="container">
-                    <div class="footer-top d-grid grid-sm-3">
-                        <div class="footer-block-item">
-                            <h4 class="title-footer theme-color mb-10">Address</h4>
-                            <p class="heading-color">El-Mahalla El-Kubra 37<br>1776 Damietta<br>Egypt</p>
-                        </div>
-
-                        <div class="footer-block-item">
-                            <h4 class="title-footer theme-color mb-10">Phone</h4>
-                            <p class="heading-color">+38 044 364 55 19</p>
-                        </div>
-
-                        <div class="footer-block-item">
-                            <h4 class="title-footer theme-color mb-10">Phone</h4>
-                            <a href="#" class="heading-color">info@dsngrid.com</a>
-                        </div>
-                    </div>
-
-                    <div class="copyright-social d-flex justify-content-between">
-                        <div class="copright-text heading-color text-uppercase">© 2022 broow DIGITAL AGENCY | <a
-                                class="theme-color" href="#" target="_blank">DSN Grid</a>
-                        </div>
-
-                        <div class="footer-social p-relative">
-                            <ul>
-                                <li>
-                                    <a href="#" target="_blank">Dribbble</a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank">Behance</a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank">Linkedin</a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank">Twitter</a>
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+            @include('components.footer')
         </div>
 
 

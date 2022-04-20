@@ -15,9 +15,13 @@
                             STUDIO</span>
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Made to make.</h1>
-                    <p class="p-large">Kindly refrain from calling us an “agency.” We are a collective built by
-                        artists, engineers,
-                        and makers; united by a shared passion for cultural relevance and timeless creative.</p>
+                    <p class="p-large">
+                        Since 2016, we have helped 50 companies launch over 60 incredible products
+                        We believe the best digital solutions are built at the intersection of business strategy, available technology, and real 
+                        user’s needs. We create a balanced approach by understanding the true needs of all influences – scalability, viability, and desirability.
+
+
+                    </p>
                 </div>
             </div>
             <div class="dsn-container dsn-right-container border-bottom pt-section"></div>
@@ -41,13 +45,13 @@
                 </div>
             </div>
 
-            <!-- ========== Services ========== -->
+            <!-- ========== Mission Vision ========== -->
             <section class="services services-list section-margin" data-dsn-animate="section">
                 <div class="container section-title mb-70">
-                    <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>OUR SERVICES</h5>
+                    <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>Five core values that define</h5>
 
                     <h2 class="section-title dsn-text-shadow text-transform-upper dsn-text">
-                        Product Design Agency</h2>
+                        Our Success</h2>
                 </div>
 
                 <div class="container">
@@ -57,11 +61,10 @@
                             <span class="number p-large fw-400 theme-color dsn-up">01</span>
                             <div class="d-grid grid-lg-2 pt-20 mt-20">
                                 <span class="line"></span>
-                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Mapping & Research</h4>
-                                <p class="dsn-up">Each of my clients is a partner whom I help to achieve small
-                                    financial
-                                    goals. Whether it's the purchase of a new car or a long-awaited vacation, we
-                                    will turn into life your goals together</p>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Love your client</h4>
+                                <p class="dsn-up">Success begins with the right people on board. We want to believe in you, your vision,
+                                     and your team. We’re passionate about our projects, and we want to be just as passionate about yours.
+                                </p>
                             </div>
                         </div>
 
@@ -70,29 +73,52 @@
                             <span class="number p-large fw-400 theme-color dsn-up">02</span>
                             <div class="d-grid grid-lg-2 pt-20 mt-20">
                                 <span class="line"></span>
-                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Product Development</h4>
-                                <p class="dsn-up">Each of my clients is a partner whom I help to achieve small
-                                    financial
-                                    goals. Whether it's the purchase of a new car or a long-awaited vacation, we
-                                    will turn into life your goals together</p>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Emphasize with end users</h4>
+                                <p class="dsn-up">Our top hiring criteria is the ability to understand the end user. Two of the most critical 
+                                    skills in product development are solving problems and caring about the people you’re solving problems for. 
+                                    We only hire people who have it already built in.
+                                </p>
                             </div>
                         </div>
 
                         <div class="service-item">
+
                             <span class="number p-large fw-400 theme-color dsn-up">03</span>
                             <div class="d-grid grid-lg-2 pt-20 mt-20">
                                 <span class="line"></span>
-                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Enhance Experience</h4>
-                                <p class="dsn-up">Each of my clients is a partner whom I help to achieve small
-                                    financial
-                                    goals. Whether it's the purchase of a new car or a long-awaited vacation, we
-                                    will turn into life your goals together</p>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Make decisions based on data</h4>
+                                <p class="dsn-up">No egos. No hunches. Only data. Every time. We research, test, validate, and measure like scientists 
+                                    in the lab. Then, we make decisions and act.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="service-item">
+                            <span class="number p-large fw-400 theme-color dsn-up">04</span>
+                            <div class="d-grid grid-lg-2 pt-20 mt-20">
+                                <span class="line"></span>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Work tirelessly until the goal is reached</h4>
+                                <p class="dsn-up">We’re not afraid to fail. We embrace it. We encourage it. We’ve learned how to fail quickly and fail fast.
+                                     We iterate, experiment, and test as long as it takes to find the perfect solution.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="service-item">
+                            <span class="number p-large fw-400 theme-color dsn-up">05</span>
+                            <div class="d-grid grid-lg-2 pt-20 mt-20">
+                                <span class="line"></span>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Shoot for the stars</h4>
+                                <p class="dsn-up">We love to dream big and aim high. When you aim high, you get better results, and even if you fail, 
+                                    you’ll fail above everyone else’s success.
+
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- ========== End Services ========== -->
+            <!-- ========== Mission Vision ========== -->
 
             <!-- ========== Feature ========== -->
             <div class="dsn-container section-margin">
@@ -259,28 +285,30 @@
                                 <ul>
                                     <li class="d-flex">
                                         <span class="line"></span>
-                                        <h4 class="sup-title">Drive</h4>
-                                        <p class="dsn-up">We convert the potential of the team into the energy of
-                                            creation</p>
+                                        <h4 class="sup-title">Mission</h4>
+                                        <p class="dsn-up">To provide design & development services for startups, small & middle businesses.
+                                        </p>
                                     </li>
 
                                     <li class="d-flex">
                                         <span class="line"></span>
-                                        <h4 class="sup-title">Distinctiveness</h4>
-                                        <p class="dsn-up">We create real estate superbrands for personalities</p>
+                                        <h4 class="sup-title">Vision</h4>
+                                        <p class="dsn-up">The products created with us are used by millions of people all over the world.
+                                        </p>
                                     </li>
 
                                     <li class="d-flex">
                                         <span class="line"></span>
-                                        <h4 class="sup-title">Confidence</h4>
-                                        <p class="dsn-up">We value our reputation, appreciate the confidence of our
-                                            customers and are willing to trust our partners</p>
+                                        <h4 class="sup-title">Values</h4>
+                                        <p class="dsn-up">From product concept to fully operational business, we stand as a strategic partner for companies we truly believe in.
+                                        </p>
                                     </li>
 
                                     <li class="d-flex">
                                         <span class="line"></span>
-                                        <h4 class="sup-title">Innovation</h4>
-                                        <p class="dsn-up">Today we create what will meet the demands of tomorrow.
+                                        <h4 class="sup-title">Culture of Innovation</h4>
+                                        <p class="dsn-up">We rely on close collaboration to deliver high class work and a delightful experience for both our clients and our team. 
+                                            Our production practices and culture are defined by three core principles: empathy, effectiveness, innovation.
                                         </p>
                                     </li>
                                 </ul>

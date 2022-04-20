@@ -87,7 +87,7 @@
                                     <div class="icon mb-20">
                                         <span class="background-main ion-ios-color-wand-outline"></span>
                                     </div>
-                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">DIGITAL PRODUCTS
+                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">MAPPING & Research
                                     </h4>
                                     <p>Web design encompasses many different skills and disciplines in the production of
                                         all
@@ -101,7 +101,7 @@
                                     <div class="icon mb-20">
                                         <span class="background-main ion-ios-lightbulb-outline"></span>
                                     </div>
-                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">UI-UX DESIGN
+                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">MVP Design
                                     </h4>
                                     <p>Web design encompasses many different skills and disciplines in the production of
                                         all
@@ -112,10 +112,10 @@
                             <div class="service-item border dsn-up p-10">
                                 <div class="service-item-wrapper background-section">
                                     <div class="icon mb-20">
-                                        <span class="background-main ion-ios-rose-outline"></span>
+                                        <span class="background-main ion-ios-cog-outline"></span>
                                     </div>
                                     <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">
-                                        Business Stratagy</h4>
+                                        Build Product</h4>
                                     <p>Web design encompasses many different skills and disciplines in the production of
                                         all
                                         web.</p>
@@ -156,8 +156,8 @@
                                                     <span class="ion-heart"></span>
                                                 </div>
 
-                                                <h5 class="number section-title mb-10 has-animate-number">199</h5>
-                                                <h6 class="sup-title body-color dsn-up">Staticfied Customers</h6>
+                                                <h5 class="number section-title mb-10 has-animate-number">19k</h5>
+                                                <h6 class="sup-title body-color dsn-up">Satisfied Customers</h6>
                                             </div>
                                         </div>
 
@@ -187,7 +187,7 @@
                                             <p class="dsn-up">Founded in 2018, Estucy was trying to create SAAS based model for retailers.
                                                 With the change of socials people are more comfort in buying ...</p>
                                         </div>
-                                        <a href="/project-1"
+                                        <a href="/project"
                                             class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                             <span>
                                                 <span class="left"></span>
@@ -235,7 +235,7 @@
                                             <span>startup</span> <span>finance</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project.html">Finapp</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project">Finapp</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -255,7 +255,7 @@
                                             <span>website</span> <span>media</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-2.html">Triana Studio</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-2">Triana Studio</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -275,7 +275,7 @@
                                             <span> app</span><span>tourism</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-7.html">Travel Notes</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-7">Travel Notes</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -295,7 +295,7 @@
                                             <span>SAAS</span> <span>fashion</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-3.html">ESTUCY</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-3">ESTUCY</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -315,7 +315,7 @@
                                             <span>app</span> <span>brand</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-6.html">AMIRS</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-6">AMIRS</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -335,7 +335,7 @@
                                             <span>platform</span> <span>carbon</span>
                                         </div>
                                         <h4 class="sec-title text-uppercase letter-spacing-2">
-                                            <a class="effect-ajax" data-dsn-ajax="work" href="project-5.html">Floresta</a>
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-5">Floresta</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -405,16 +405,13 @@
                                         visual
                                         ?</h2>
                                     <div class="pt-30 pb-30 border-top border-bottom">
-                                        <p class="mb-10 max-w570 dsn-up">A system that young people around the world
-                                            with a
-                                            club culture and techno enthusiasts feel identified. We generated a
-                                            simple logo that is the basis for generating a geometric and liquid
-                                            system.</p>
-                                        <p class="dsn-up">Founded in 2000, Dsn Grid has become one of the best Digital
-                                            Agency in
-                                            ThemeForest. Blue money going forward, but deploy to production.</p>
+                                        <p class="mb-10 max-w570 dsn-up">A system for the young social influencers
+                                            with a club culture and fashion enthusiasts feel identified. We tied with Estucy to
+                                        bring changes with their current idea and make their things better.  </p>
+                                        <p class="dsn-up">Founded in 2018, Estucy was trying to create SAAS based model for retailers.
+                                            With the change of socials people are more comfort in buying ...</p>
                                     </div>
-                                    <a href="project-3.html" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
+                                    <a href="/project-3" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                         <span>
                                             <span class="left"></span>
                                             <span class="center"></span>

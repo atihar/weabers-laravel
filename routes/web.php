@@ -29,6 +29,10 @@ Route::get('/elements', function () {
     return view('elements');
 });
 
+Route::get('/services', function () {
+    return view('services');
+});
+
 Route::get('/about', function () {
     return view('about');
 });

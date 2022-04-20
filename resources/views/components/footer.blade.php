@@ -25,16 +25,16 @@
             <div class="footer-social p-relative">
                 <ul>
                     <li>
-                        <a href="#" target="_blank">Dribbble</a>
+                        <a href="https://www.instagram.com/weabers.digital/" target="_blank">Instagram</a>
                     </li>
                     <li>
-                        <a href="#" target="_blank">Behance</a>
+                        <a href="https://twitter.com/weabersinc13" target="_blank">Twitter</a>
                     </li>
                     <li>
-                        <a href="#" target="_blank">Linkedin</a>
+                        <a href="https://www.linkedin.com/company/weabers" target="_blank">Linkedin</a>
                     </li>
                     <li>
-                        <a href="#" target="_blank">Twitter</a>
+                        <a href="https://www.facebook.com/weabers/" target="_blank">Facebook</a>
                     </li>
 
                 </ul>
