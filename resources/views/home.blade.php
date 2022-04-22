@@ -528,7 +528,7 @@
                 <div class="next-page section-padding background-section" data-dsn-animate="section">
                     <div class="container">
                         <div class="next-page-inner background-section border p-10  dsn-up">
-                            <a href="contact.html"
+                            <a href="/contact"
                                 class="background-main effect-ajax section-padding w-100 p-relative over-hidden">
                                 <div class="bg-circle-dotted"></div>
 

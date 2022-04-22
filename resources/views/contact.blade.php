@@ -40,21 +40,16 @@
                             <h4
                                 class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
                                 Address</h4>
-                            <p class="heading-color">302 East 8th Street, Brooklyn<br> USA
-                            </p>
-                            <h4
-                                class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
-                                Address 2</h4>
-                            <p class="heading-color">123 Rickson Ave, Ontario <br> CANADA
+                            <p class="heading-color">Brooklyn, New York - 11218,<br> USA
                             </p>
                         </div>
 
                         <div class="item dsn-up">
                             <h4
-                                class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
-                                Contact</h4>
-                            <a class="d-block" href="#">+1 347 922 0840</a>
-                            <a class="d-block" href="#">+1 519 400 4667</a>
+                            class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
+                            Address 2</h4>
+                        <p class="heading-color">Rickson Ave, Ontario <br> CANADA
+                        </p>
                         </div>
                     </div>
                 </div>

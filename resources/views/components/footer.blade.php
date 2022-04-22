@@ -3,12 +3,12 @@
         <div class="footer-top d-grid grid-sm-3">
             <div class="footer-block-item">
                 <h4 class="title-footer theme-color mb-10">Address</h4>
-                <p class="heading-color">302 East 8th Street, Brooklyn<br>New York - 11218, USA</p>
+                <p class="heading-color">Brooklyn<br>New York - 11218, USA</p>
             </div>
 
             <div class="footer-block-item">
-                <h4 class="title-footer theme-color mb-10">Phone</h4>
-                <p class="heading-color">+1 347 922 0840</p>
+                <h4 class="title-footer theme-color mb-10">Follow us</h4>
+                <p class="heading-color">@weabers</p>
             </div>
 
             <div class="footer-block-item">
