@@ -443,7 +443,7 @@
                                         <span
                                             class="blog-catgeory background-main p-10 text-uppercase letter-spacing-2 mb-10 theme-color"><a
                                                 href="/our-process" class="effect-ajax">Product Design</a> </span>
-                                        <h4 class="title-block mb-20"><a href="/our-process" class="effect-ajax">The tested MVP design process
+                                        <h4 class="title-block mb-20"><a href="/our-process" class="effect-ajax">The tested design process
                                             </a></h4>
                                         <p>Creating your app from scratch can feel overwhelming and complicated at first. Since 
                                             the process is long, project leaders and software...
@@ -461,12 +461,12 @@
                                     <div class="content-inner background-section">
                                         <span
                                             class="blog-catgeory background-main p-10 text-uppercase letter-spacing-2 mb-10 theme-color"><a
-                                                href="post.html" class="effect-ajax">MVP Launch</a> </span>
+                                                href="/faq" class="effect-ajax">MVP Launch</a> </span>
                                         <h4 class="title-block mb-20"><a href="post.html" class="effect-ajax">Dont get
-                                                lost quoting</a>
+                                            overwhelmed</a>
                                         </h4>
-                                        <p>Creating your app from scratch can feel overwhelming and complicated at first. Since 
-                                            the process is long, project leaders and software...
+                                        <p>Creating your app from scratch can feel overwhelming and complicated at first. 
+                                            Since the process is long, project leaders and software engineering....
                                         </p>
                                     </div>
                                 </div>
