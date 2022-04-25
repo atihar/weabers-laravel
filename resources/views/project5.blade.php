@@ -84,21 +84,19 @@
             </li>
             <li>
               <h5>Industry</h5>
-              <span>CHOI HEESEUNG</span>
+              <span>Carbon management</span>
             </li>
             <li>
               <h5>Year</h5>
-              <span>2020</span>
+              <span>2021</span>
             </li>
           </ul>
 
           <div class="intro-project-text mt-50">
             <h5>Summary</h5>
-            <p class="dsn-up max-w750">Today, the selling points of laptops emphasize smaller and lighter. But if
-              stick to the existing form and method of laptops, it'll come limits someday. The advances in foldable
-              technology are changing the shape of smartphones and offering new usability. By applying this to the
-              laptop, the ratio of the product changes close to 1:2 while maintaining the 16:9 ratio screen. It will
-              offer new usability due to the changed ratio and reduced size.</p>
+            <p class="dsn-up max-w750">The app calculates how much your air travel generates in carbon emissions 
+              and you finance trees that are planted in the Institute to compensate for the amount. The Floresta 
+              Terra is a nonprofit organization responsible for replanting an area in Atlantic Forest.</p>
           </div>
         </div>
       </div>
@@ -122,14 +120,17 @@
             </div>
 
             <div class="box-info section-padding p-relative section-margin pl-40 pr-40">
-              <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper">How is your visual ?</h2>
+              <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper">Real Estate Carbon Emission Problem</h2>
               <div class="pt-30 border-top">
-                <p class="mb-10 max-w570">A system that young people around the world with a
-                  club culture and techno enthusiasts feel identified. We generated a
-                  simple logo that is the basis for generating a geometric and liquid
-                  system.</p>
-                <p>Founded in 2000, Dsn Grid has become one of the best Digital Agency in
-                  ThemeForest. Blue money going forward, but deploy to production.</p>
+                <p class="mb-10 max-w570">Real estate GHG challenges
+                  Our case study client has real estate in 14 states, 305 locations, and controls more than 4 million square feet. 
+                  This posed a significant data collection and processing challenge, starting with reviewing the client’s already 
+                  collected data on utility costs and bills from each of their locations. </p>
+                <p>We immediately realized we would need to solve several problems. Different locations collected utility bill 
+                  information in different ways — some in Excel spreadsheets and others in PDF format. Our in-depth review of the 
+                  data revealed many gaps in the baseline year, as well as reporting inconsistencies. We worked closely with our 
+                  client to resolve these issues, but it was time-consuming and expensive for both parties. Advice for any company 
+                  contemplating GHG emissions analysis is to first ensure consistency of reporting and formatting utility data.</p>
               </div>
             </div>
 

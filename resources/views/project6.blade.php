@@ -72,9 +72,9 @@
       <!-- ========== 2 col image with pop image ========== -->
       <div class="container section-margin has-popup over-hidden p-relative">
         <div class="section-title mb-50 pb-30 border-bottom text-center">
-          <h5 class="sup-title theme-color mb-10">Allbirds</h5>
-          <h2 class="p-large dsn-text-shadow text-transform-upper fw-600">Happy to share our new <br> work for
-            Allbirds</h2>
+          <h5 class="sup-title theme-color mb-10">Amirs</h5>
+          <h2 class="p-large dsn-text-shadow text-transform-upper fw-600">Fashion Ecommerce Website <br> for
+            Amir's Luxury Brand</h2>
         </div>
 
         <div class="d-grid grid-md-2 over-hidden">
@@ -119,15 +119,17 @@
 
             <div class="box-text p-relative d-flex justify-content-center flex-column mt-section">
               <div class="box-text-wrapper section-padding p-relative z-index-2">
-                <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper">Nature is making</h2>
+                <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper">Average is not always what you choose</h2>
                 <div class="pt-30 pb-30 border-top border-bottom">
-                  <p class="mb-10 max-w570">Happy to share our new work for Allbirds. Made for the 2021 Olympics.
-                    Allbirds wanted to make a statement about the use of oil-based materials in sportswear and
-                    Allbirds' mission to change that! To make this project happen, </p>
-                  <p>we teamed up with our good friends and talented people at Playback Design. Echoic on sound.
-                  </p>
+                  <p class="mb-10 max-w570">Life is too short to wear the same boring clothes every day. 
+                    So why not make the most of fashion to express your true self? Especially when it comes 
+                    with some trendy design?! </p>
+                  <p> That’s the story behind Amirs, a fashion brand with a history in the retail 
+                    industry. They’ve built their reputation through several brick-and-mortar stores, 
+                    but the rise of an online store was both necessary and inevitable. That’s how they ended up selling 
+                    their collection from famous brand wear exclusively online.</p>
                 </div>
-                <a href="https://www.behance.net/gallery/126541231/Allbirds?tracking_source=project_owner_other_projects"
+                <a href="www.amirs.store"
                   class="default-button z-index-2 mt-30">
                   <span>
                     <span class="left"></span>
@@ -185,7 +187,7 @@
       </div>
 
       <!-- ========== testimonials ========== -->
-      <div class="testimonials dsn-swiper section-margin" data-dsn-option='{"effect":"fade"}'>
+      {{-- <div class="testimonials dsn-swiper section-margin" data-dsn-option='{"effect":"fade"}'>
         <div class="container">
           <div class="testimonials-inner">
             <div class="swiper-container">
@@ -280,7 +282,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> --}}
       <!-- ========== End testimonials ========== -->
 
       <div class="next-project p-relative mt-section pt-section back-ground-section h-100-v v-dark-head">

@@ -78,11 +78,11 @@
           <ul class="p-relative project-info d-grid grid-md-3">
             <li>
               <h5>SERVICES</h5>
-              <span>product</span>
+              <span>Online Shop</span>
             </li>
             <li>
               <h5>Industry</h5>
-              <span>CHOI HEESEUNG</span>
+              <span>Health and Beauty</span>
             </li>
             <li>
               <h5>Year</h5>
@@ -92,11 +92,10 @@
 
           <div class="intro-project-text mt-50">
             <h5>Summary</h5>
-            <p class="dsn-up max-w750">Today, the selling points of laptops emphasize smaller and lighter. But if
-              stick to the existing form and method of laptops, it'll come limits someday. The advances in foldable
-              technology are changing the shape of smartphones and offering new usability. By applying this to the
-              laptop, the ratio of the product changes close to 1:2 while maintaining the 16:9 ratio screen. It will
-              offer new usability due to the changed ratio and reduced size.</p>
+            <p class="dsn-up max-w750">High Societe is an e-commerce business that specializes in CBD oils and luxury beauty items. 
+              Collecting with over a dozen local farms, High Societe offers the highest quality CBD and CBG products. 
+              With more than 25,000 customers across the United States, High Societe strives to make CBD hemp products 
+              more accessible and affordable. Our task was to recreate their website while keeping the brand essence preserved.</p>
           </div>
         </div>
       </div>
@@ -114,13 +113,14 @@
       <div class="container section-margin" data-dsn-animate="section">
         <div class="d-grid grid-md-2">
           <div class="text-item">
-            <h4 class="p-large letter-spacing-2 fw-400">The freedom <br> that compactness brings</h4>
+            <h4 class="p-large letter-spacing-2 fw-400">The Real <br> problem we faced</h4>
           </div>
 
           <div class="text-item">
-            <p class="mb-20">The new ratio of Clutop gives you compactness, which gives you the freedom you've never
-              felt before. Clutop is the world's smallest and most beautiful laptop that will make you stylish
-              anytime, anywhere.</p>
+            <p class="mb-20">Digital marketing platforms can be hostile to the CBD industry. Due to nationwide discrepancies in legality, 
+              a majority of social media and paid media platforms censor ads related to CBD, and dispensaries. For CBD businesses like High Societe, 
+              this means that traffic must be earned organically, a daunting task with the recent explosion of industries websites. 
+              Due to the competitive digital landscape of the CBD industry, High Societe needed to upgrade its search engine optimization strategy.</p>
           </div>
         </div>
       </div>

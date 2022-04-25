@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Http\Request;
+use App\Mail\contactEmail;
 
 /*
 |--------------------------------------------------------------------------
@@ -72,4 +74,15 @@ Route::get('/project-6', function () {
 
 Route::get('/project-7', function () {
     return view('project7');
+});
+
+Route::get('/thank-you', function () {
+    return view('success');
+});
+
+
+Route::post('/contact', function(Request $request){
+    Mail::send(new contactEmail($request));
+
+    return redirect('/thank-you');
 });

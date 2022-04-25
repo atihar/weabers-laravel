@@ -1,6 +1,6 @@
 @extends('layout')
  
-@section('title', 'Contact')
+@section('title', 'Successfully Message Sent')
  
 @section('main')
 <main class="main-root">
@@ -11,12 +11,10 @@
             <div class="container">
                 <div class="content-hero p-relative d-flex flex-column h-100 dsn-hero-parallax-content">
                     <p class="subtitle p-relative letter-spacing-2">
-                        <span class="p-10 background-section dsn-load-animate theme-color">Let's get you an
-                            estimate</span>
+                        <span class="p-10 background-section dsn-load-animate theme-color">We have received your message</span>
                     </p>
-                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Contact Us</h1>
-                    <p class="p-large">It’s all about the humans behind a brand and those experiencing it, we’re
-                        right there. In the middle.</p>
+                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">✓ Thank You</h1>
+                    <p class="p-large">We will get back to you shortly!</p>
                 </div>
             </div>
         </header>

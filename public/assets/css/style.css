@@ -3315,12 +3315,22 @@ body .dsn-slider.controller-right.full-width .control-nav .next-container {
 }
 .entry-box input::placeholder,
 .entry-box textarea::placeholder {
-  color: var(--heading-color);
+  color: rgb(129, 129, 129);
   font-size: 16px;
   letter-spacing: -0.5px;
 }
 .entry-box input {
   height: 100%;
+}
+
+.entry-box select {
+  color: var(--heading-color);
+  background-color: var(--bg-color);
+  padding: 10px;
+  border: 1px solid var(--border-color);
+  width: 100%;
+  margin-top: 5px;
+  font-size: 16px;
 }
 
 label {

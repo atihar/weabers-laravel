@@ -1,6 +1,6 @@
 @extends('layout')
  
-@section('title', 'Home Page')
+@section('title', 'What we do')
  
 @section('main')
 <main class="main-root">
@@ -11,13 +11,13 @@
             <div class="container">
                 <div class="content-hero p-relative d-flex flex-column h-100 dsn-hero-parallax-content">
                     <p class="subtitle p-relative letter-spacing-2">
-                        <span class="p-10 background-section dsn-load-animate theme-color">DESIGN
+                        <span class="p-10 background-section dsn-load-animate theme-color">DIGITAL PRODUCT
                             STUDIO</span>
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Made to make.</h1>
                     <p class="p-large">
                         Since 2016, we have helped 50 companies launch over 60 incredible products
-                        We believe the best digital solutions are built at the intersection of business strategy, available technology, and real 
+                        We believe the best digital solutions are built at the intersection of business strategy, cutting edge technology, and real 
                         user’s needs. We create a balanced approach by understanding the true needs of all influences – scalability, viability, and desirability.
 
 
@@ -172,7 +172,7 @@
             @include('components.testimonials')
 
             <!-- ========== Team ========== -->
-            <section class="team section-padding background-section" data-dsn-animate="section">
+            {{-- <section class="team section-padding background-section" data-dsn-animate="section">
                 <div class="container section-title d-flex text-center flex-column align-items-center mb-70">
                     <h5 class="sup-title theme-color mb-10 dsn-up"><span>03</span>OUR Team</h5>
                     <h2 class="section-title dsn-text-shadow text-transform-upper dsn-text">Meet The Team</h2>
@@ -259,7 +259,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
             <!-- ========== End Team ========== -->
 
             <!-- ========== End brand-client Section ========== -->

@@ -92,9 +92,10 @@
 
           <div class="intro-project-text mt-50">
             <h5>Summary</h5>
-            <p class="dsn-up max-w750">This innovative layered mask for Never Go Alone takes inspiration from the
-              design language of athleisure, with a seamlessly bonded construction and adjustable features that offer
-              exceptional comfort.
+            <p class="dsn-up max-w750">From the idea of purchasing from social story we had an task to created a platform, 
+              so that brands can reach the people around city more easily. Another target was to Promoting products and essentials to 
+              them and deliver them quickly through the platform. which will lead to reach millions 
+              of users across Canada with a small push.
             </p>
           </div>
         </div>
@@ -145,18 +146,22 @@
       <div class="container section-margin" data-dsn-animate="section">
         <div class="d-grid grid-md-2">
           <div class="text-item">
-            <h4 class="p-large letter-spacing-2 fw-400">The outermost layer is a highly breathable and lightweight
-              knitted fabric that conceals a replaceable bespoke PM2.5 diamond-shaped filter that fits the contours of
-              the face.</h4>
+            <h4 class="p-large letter-spacing-2 fw-400">Let me tell you something before you dive any deeper in such 
+              case study, this is not entirely a new concept. It has been thought about and worked on before by quite 
+              a number of inspiring minds. But none of them actually landed to a satisfying solutions to all these 
+              problems combined.</h4>
           </div>
 
           <div class="text-item">
-            <p class="mb-20">This layer is bonded to an ultrasuede mid-layer that gives the mask a sculptural
-              structure while providing soft touchpoints for the skin. The innermost layer is an advanced technical
-              Superfine knit that incorporates antibacterial fibres for increased protection.</p>
+            <p class="mb-20">Thinking Process: It is an iterative process in which we seek to understand the user, challenge assumptions, 
+              and redefine problems in an attempt to identify alternative strategies and solutions that might not be 
+              instantly apparent with our initial level of understanding. At the same time, Design Thinking provides 
+              a solution-based approach to solving problems. It is a way of thinking and working as well as a collection 
+              of hands-on methods.</p>
 
-            <p> The mask also utilises modular ear loops so the user can customise the colour to match their style.
-              When not in use, it folds flat and can be stored in a convenient travel pouch.</p>
+            <p> Platform Includes: Category includes all the subsections like footwear, clothing, accessories, etc. Reads 
+              have all the trending articles at the top followed by some famous fashion and lifestyle magazines. We kept 
+              the UI flat, bichromatic and simple to coincide with the product goals keeping principles of emotional design in mind.</p>
           </div>
         </div>
       </div>
@@ -175,8 +180,11 @@
       <!-- ========== Section Paragraph ========== -->
       <div class="container section-margin text-center" data-dsn-animate="section">
         <div class="max-w750">
-          <h4 class="p-large letter-spacing-2 fw-400 text-transform-upper">This innovative layered mask
-            for Never Go Alone takes inspiration from the design language of athleisure.</h4>
+          <h4 class="p-large letter-spacing-2 fw-400 text-transform-upper">Self-confidence is something that has to be 
+            developed from inside rather than being forced in some way from any external source, and our fashion and 
+            lifestyle play a vital role in developing that attribute. As per design thinking, this will always remain 
+            an unfinished product and We’ll keep making iterations as We come across any such intuition and observation 
+            like the ones used initially.</h4>
         </div>
       </div>
       <!-- ========== End Section Paragraph ========== -->

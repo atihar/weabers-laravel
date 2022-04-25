@@ -14,9 +14,9 @@
                         <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">Elements for branding</span>
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Community For Creatives</h1>
-                    <p class="p-large">Kindly refrain from calling us an “agency.” We are a collective built by
-                        artists, engineers,
-                        and makers; united by a shared passion for cultural relevance and timeless creative.</p>
+                    <p class="p-large">With good branding, you can give your brand a more human side, which your customers can 
+                        relate to more than a company that's strictly all business.We have shared some of our elements to
+                        make it easy for your next branding.</p>
                 </div>
             </div>
             <div class="dsn-container dsn-right-container border-bottom pt-section"></div>
@@ -216,7 +216,7 @@
             <div class="next-page section-padding background-section" data-dsn-animate="section">
                 <div class="container">
                     <div class="next-page-inner background-section border p-10  dsn-up">
-                        <a href="contact.html"
+                        <a href="/contact"
                             class="background-main effect-ajax section-padding w-100 p-relative over-hidden">
                             <div class="bg-circle-dotted"></div>
 

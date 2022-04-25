@@ -16,7 +16,7 @@
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">We Deliver Results.</h1>
                     <p class="p-large">
-                        Whether we’re building a new product or improving an existing one, FIVE partners with our clients to make a measurable impact. 
+                        Whether we’re building a new product or improving an existing one, we comply with our clients to make a measurable impact. 
                         We’ve helped hundreds of organizations, including large enterprises, small businesses and even non-profits.
                     </p>
                 </div>

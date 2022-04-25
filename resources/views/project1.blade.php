@@ -78,11 +78,11 @@
             <ul class="p-relative project-info d-grid grid-md-3">
               <li class="dsn-up">
                 <h5>SERVICES</h5>
-                <span>product</span>
+                <span>product design</span>
               </li>
               <li class="dsn-up">
                 <h5>Industry</h5>
-                <span>First Things Studio</span>
+                <span>Finance</span>
               </li>
               <li class="dsn-up">
                 <h5>Year</h5>
@@ -93,11 +93,11 @@
             <div class="intro-project-text mt-50">
               <h5 class="dsn-up">Summary</h5>
               <p class="dsn-up max-w750">
-                Meet the Cowboy 4, the connected bike for urban riders. A full
-                suite of CGI images and animation was crafted for the global
-                launch of Cowboy's latest campaign. The launch of the new C4
-                and ST explores the technology, beauty and road presence of
-                the urban electric bike in every detail. Mount up, ride on.
+                We now know that cryptocurrencies are a virtual currency alternative 
+                to government currencies, i.e. outside the control of central banks, 
+                using alternative circuits, the blockchain, to exist. Moreover, they 
+                can be exchanged with any other “traditional” currency. Our target was
+                to make the exchange app easy to use and maintain the leagacy usability.
               </p>
             </div>
           </div>
@@ -117,15 +117,16 @@
         <div class="dsn-container section-margin text-center" data-dsn-animate="section">
           <div class="max-w750">
             <h4 class="p-large fw-500 letter-spacing-2 text-transform-upper dsn-text mb-20">
-              3D Cinematography
+              User Insights
             </h4>
 
             <p class="dsn-up">
-              The essence of this campaign is built around precise and
-              carefully planned lighting techniques to celebrate the form,
-              design and presence of Cowboy bikes. 3D cinematography was
-              crafted to celebrate the purity of a mechanical and
-              electronically advanced product.
+              From this research, Weabers were able to conclude that most of the people buying cryptocurrencies 
+              today are men, around 30 years old. They spend about 1 hour (on average) each week monitoring 
+              their portfolio, and can invest a lot of money if they trust the platforms they use, especially 
+              with the motivation to make money without doing much. Therefore, the most successful features are 
+              those that guarantee automatic returns. These people use more than 3 platforms to do so, most of 
+              them using Bitso as an access to others not accepting MXN.
             </p>
           </div>
         </div>
@@ -162,38 +163,39 @@
             <div class="d-grid grid-lg-2 align-items-center">
               <div class="box-text-wrapper">
                 <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper">
-                  Three colours
+                  We will create
                 </h2>
 
                 <h5 class="max-w570 p-large mb-30">
-                  Each bike and environment is offered in three colours, sand,
-                  khaki green and of course, black. Complimentary environment
-                  colours with subtle shifts in contrast are used to accent
-                  each product visual.
+                  a new simple, user-friendly platform with automated processes that 
+                  allows you to invest your money in cryptocurrencies in a simple and didactic way, 
+                  from deposits in local currency (MXN) to the purchase of the chosen cryptocurrencies, 
+                  with a visualization system that allows our users to track their savings in confidence.
                 </h5>
 
                 <p class="mb-10 max-w570">
-                  A system that young people around the world with a club
-                  culture and techno enthusiasts feel identified. We generated
-                  a simple logo that is the basis for generating a geometric
-                  and liquid system.
+                  Hypothesis: We believe that by creating a unique educational application for cryptocurrency and FIAT 
+                  currency management for crypto lovers, newbies or not, we will open up access to this 
+                  other world to many people who were previously reluctant, build their loyalty and make 
+                  cryptocurrency part of their daily life and saving habits.
                 </p>
 
                 <p class="max-w570">
-                  A system that young people around the world with a club
-                  culture and techno enthusiasts feel identified. We generated
-                  a simple logo that is the basis for generating a geometric
-                  and liquid system.
+                  Customer Journey : We developed a happy path for our users within the platform. This happy path, to better represent 
+                  the functionalities of the app, and because of the time spent on the development of the app, does
+                   not include onboarding. It includes the connection of other banks to the app to show the general 
+                   functioning of the solution, but the design will only show the app of a user who has already 
+                   connected his bank account to the app.
                 </p>
 
-                <a href="https://www.behance.net/gallery/123143111/Cowboy" target="_blank"
+                <a href="https://atlassian.design/" target="_blank"
                   class="default-button z-index-2 mt-30">
                   <span>
                     <span class="left"></span>
                     <span class="center"></span>
                     <span class="right"></span>
                   </span>
-                  <span class="text">Visit site</span>
+                  <span class="text">Design System</span>
                   <span class="plus-icon"></span>
                 </a>
               </div>

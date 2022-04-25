@@ -72,8 +72,9 @@
       <div class=" section-padding v-light text-center" data-dsn-animate="section">
         <div class="container">
           <div class="max-w750">
-            <h4 class="p-large letter-spacing-2 fw-400 text-transform-upper">This innovative layered mask
-              for Never Go Alone takes inspiration from the design language of athleisure.</h4>
+            <h4 class="p-large letter-spacing-2 fw-400 text-transform-upper">The end goal of this project 
+              is to create a trip planner app that enables user to plan their future trip that covers all the basics.
+               All the solutions proposed in this project would help people to create more in-depth trip planning.</h4>
           </div>
         </div>
       </div>
