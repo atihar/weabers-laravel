@@ -1,6 +1,6 @@
 @extends('layout')
  
-@section('title', 'Product Development FAQs')
+@section('title', 'FAQs')
  
 @section('main')
 <main class="main-root">
@@ -12,14 +12,14 @@
                 <div class="content-hero p-relative d-flex flex-column h-100 dsn-hero-parallax-fill">
                     <div class="metas metas-blog d-flex align-items-center letter-s1 fz-16 p-relative">
                         <p class="post-categories d-inline-block">
-                            <span class="cat-links">Product Design</span>
+                            <span class="cat-links">Startup Studio</span>
                         </p>
 
                     </div>
 
                     <div class="hero-title mt-30 dsn-load-animate text-transform-upper ">
                         <div class="d-inline-block">
-                            <h1 class="title" data-dsn-ajax="title">FAQs</h1>
+                            <h1 class="title" data-dsn-ajax="title">MVP FAQs</h1>
                         </div>
 
                     </div>
@@ -47,97 +47,58 @@
                             <div class="news-content-inner">
 
                                 <div class="post-content">
-                                    <p>Creating your app from scratch can feel overwhelming and complicated at first. Since the process is long, project leaders and software engineering directors need to know the steps to successfully creating an app. Knowing how to go ahead is like having a map for creating a successful app project. 
-                                        Getting this process right is vital in order to stay ahead and avoid any pitfalls that cause your app to fail. 
-                                                                    
-                                This is why in this article, we’re bringing you a thorough step-by-step guide to creating your app, from its inception to steering to success after you’ve released it. <br><br>
                                     
-                                    <b>Table of content</b><br>                             
-                                    • <a href="">Setting product goal</a><br>
-                                    • <a href="">Sketch of the screens(low fidelity)</a><br>
-                                    • <a href="">Competitive market research</a><br>
-                                    • <a href="">Writing features in technical requirement doc</a><br>
-                                    • <a href="">Interface Design (high fidelity)</a><br>
-                                    • <a href="">MVP build</a><br>
-                                    • <a href="">Quality assurance & testing</a><br>
-                                    • <a href="">Landing page design</a><br>
-                                    • <a href="">Releaseing the app</a><br>
-                                    • <a href="">Market the app</a><br>
-                                    • <a href="">Track KPIs</a><br>
-                                    • <a href="">Gather user feedback</a><br>
-                                    • <a href="">Continue with maintenance and support</a><br><br>
-                                    
-                                    
-                                    <b>Setting product goal</b><br>
-                                    Your app project won’t be successful unless you set your project goals and track their attainment using a specific set of criteria from the start. What you want to acheive through this 
-                                        app, who are going to be the users, how they will use this etc. such objective's rough idea comes out in this stage. Cause blueprint of the product is this stage.
-                                    <br><br>
-    
-                                    <b>Sketch of the screens (low fidelity)</b><br>
-                                    Before you lay the foundation for your app, create a rough sketch of your idea first. App idea sketches are simple drawings that show what your app should entail, how it will work, and what you want it to look like. 
-                                    
-                                    They make the idea tangible for yourself and other team members you want to convey it to. 
-                                    
-                                    This step is a risk-free way of developing an app idea that helps you get a basic outlook of your app.<br><br>
+                               
+                                <h4><strong>>How much should I budget for an MVP app?</strong></h4>
+                            
+                                <p>We believe that time to market is an important thing for any MVP. That’s why we limit the production timeline of any product to 3 months and fast tracked project starting from $12000 as a budget limit. Within that budget, you can achieve a value bringing minimum viable product that your users can start paying for.</p>
+                                
+                                <h4><strong>>How long will it take to build an MVP?</strong></h4>
+                                <p> Firstly, there’s no need to spend years on MVP development. Time to market matters, so you should validate the idea within the shortest possible time.<br>
+                                From our experience, the 3-month time frame is perfect to build MVP. Within this time, it’s possible to get a high-quality product that brings real value
+                                to users and looks convincing enough to turn them into paying customers or be proposed to investors.</p>
+                                 
+                                <h4><strong>>So, why 3 months to build MVP?</strong></h4>
+                                <p> To build a solid product, you need to get it prototyped, designed, developed and tested. To cover all these stages, it will take you about 3 months.<br>
+
+                                    So, yes, you need 3 months to build MVP. However, it’s hardly possible to claim something like ‘3 months to spend on MVP development,
+                                    and I’ll be done with it’. In fact, you’ll never become ‘done’ - because product building is never a destination but an ongoing process.</p>
+                                
+                                <h4><strong>> MVP anyhow different from prototypes?</strong></h4>
+                                <p> Unlike prototypes, MVP is a functional product, not just a set of paper-based sketches. It somehow works (not the same as poor execution, though)
+                                    and already brings real value to end users. It is meant to be your ‘true’ starting point, so you can use it to start tracking purchase intent (how many users
+                                    will turn into customers) or get funded.</p>
+                                
+                                <h4><strong>>So Why building MVP comes first?</strong></h4>
+                                <p>Whether or not you wanna get started with MVP, idea validation must be the top priority.<br>
+                                    You can pawn your house and get the money needed to build a complete product. Another scenario would be to take small steps (not giant leaps)
+                                    and test things out with something fast and simple. In both cases, it might turn out that the idea isn’t worth pursuing - the difference is that in the second case
+                                    you won’t end up being a homeless entrepreneur :)</p>
 
 
-                                    <blockquote class="wp-block-quote">
-                                        <p><strong><em>For example, you can start by drawing the basic outline of an iPhone screen to visualize what the app is going to look like to the user.                                  
-                                            wireframing image
-                                            Fill it with user interface elements such as buttons or icons.</em></strong></p>
-                                    </blockquote>
+                                <h4><strong>>My MVP is ready. What should I do next?</strong></h4>
+                                <p>We firmly believe that the MVP development path is like “Get started with something very quick and simple → test → improve → repeat”<br>
 
-                                    <img class="w-100" src="assets/img/blog/1.jpg" alt="">
+                                    You’re likely to know that MVP development is an ongoing process of improving, right? It means that once you’ve got your MVP designed, developed
+                                    and tested, you’re not done - in businesses, it’s hardly possible to ever become ‘done’. So, share your ‘done’ MVP with the market and ask for opinions
+                                    - because the only way to arrive at the ‘Truly Viable Product’ stage is when all the tweaks are feedback-based (not imagination-based).</p>
 
-                                    <p>                                                                     
-                                        Finally, make a separate screen preview for each page of the app and start listing ideas on the side of each sketch and keep drawing until you run out of ideas. 
-                                        When you’ve put down all your initial ideas, you can start refining them. 
-                                        This means writing the first draft of your app’s feature list. Keep in mind that you’re still working on the conceptual level. 
-        
-                                         <br><br>
-                                          <b>Competetive market research</b><br>
-                                          Competitive market research is a critical step of successful mobile app development that comes after you’ve sketched out your app idea. Weabers will help you to define <br><br>
-        
-                                          Competition analysis: This gives you key insights into your competitors’ strengths and weaknesses in terms of online presence, content marketing strategy, and app store listings. You want to look at average ratings, user reviews, and how frequently they update apps to determine what tactics deliver the best results. <br><br>
-                                          Understanding prospective users:  Directly ask prospective users what they think of similar apps to confirm your assumptions about competitors. Collect as much feedback as possible to make educated decisions on app design, critical features, and user experience standards. <br><br>
-                                          Industry analysis: Understand the current state of the industry so your app can address its specific pain points. You can collect hard data from the latest industry trend reports and by attending industry conferences and key events.  
-                                           <br><br>
-        
-                                          <b>Writing features in technical requirement document</b><br>
-                                          A technical requirements document lists all of the features you want in your app in one place.
-        
-                                            It will describe the features that are unique to your app and highlight which ones are a priority, so that any developer who takes on the project has a clear idea of what the app is about. 
-        
-                                            The complexity of the technical requirements will set a benchmark for choosing a developer. <br><br>
-        
-                                            A good way to go about this is to try to imagine how users interact with your app, and then write it down, step by step. 
-        
-                                            Picture what signing in to your app for the first time and browsing through its content should feel like and let that guide you as you develop the technical requirements document. 
-        
-                                            Describe what features the app navigation needs and how the user interacts with media galleries, videos, and social media. 
-        
-                                            Mention if the app requires access to specific hardware, such as cameras or microphones, and make sure to list any special features such as analytics, payment system, booking, or chat support. 
-        
-                                            After you’ve listed all the features that you want to include in your app, point out the most important ones, as those will require special attention.
-        
-                                            <br><br>
-                                            Now that you have the visual design and the technical requirements of your app penned down, you’re will have the idea what you will get as product. 
-                                            <br><br>
-        
-                                            <b>Interface Design (high fidelity)</b><br>
-                                            You will then need to create a visual design of what your app looks and feels like to the user. 
-        
-                                            The process of designing an app consists of creating app-specific wireframes and building design mockups on top of them. 
-        
-                                            Think of wireframes as app structures — they tell you how users will navigate through the app. <br><br>
-                                    </p>
 
+                                <h4><strong>>What is needed from me to get started with MVP development?</strong></h4>
+                                <p>No fancy documentation or white papers needed. It’s good if you have such, but to initiate the process a simple interview is enough. We’ll ask the questions about your idea and document it in a proper way.<br>
+                                    Go write to us at info@weabers.com to schedule a call.</p>
+
+                                <h4><strong>>Will you sign an NDA?</strong></h4>
+                                <p>Sure thing.  We value your privacy.</p>
+
+                                <h4><strong>>Do you provide marketing service?</strong></h4>
+                                <p>Our strength areas are UI/UX, development, QA and management. Not marketing. Bringing you ‘average’ results isn’t what we strive for, so you’d better find true marketing experts for that purpose.</p>
                                     <div class="post-tags p-relative">
                                         <a class="fz-16" href="#">
-                                            <span class="post_tag post_tag">Product LifeCycle</span>
+                                            <span class="post_tag post_tag">Recent MVP questions</span>
                                         </a>
                                         <a class="fz-16" href="#">
-                                            <span class="post_tag post_tag">MVP</span>
+                                            <span class="post_tag post_tag">Product Design</span>
                                         </a>
                                     </div>
 

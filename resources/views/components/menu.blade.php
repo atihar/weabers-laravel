@@ -69,7 +69,7 @@
 
                             <li>
                                 <a href="/faq">
-                                    <span class="dsn-title-menu">Product FAQ</span>
+                                    <span class="dsn-title-menu">MVP FAQ</span>
                                     <span class="dsn-meta-menu">02</span>
                                 </a>
                             </li>
