@@ -87,11 +87,10 @@
                                     <div class="icon mb-20">
                                         <span class="background-main ion-ios-color-wand-outline"></span>
                                     </div>
-                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">MAPPING & Research
+                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">Mapping & Discover
                                     </h4>
-                                    <p>Web design encompasses many different skills and disciplines in the production of
-                                        all
-                                        web.</p>
+                                    <p>We've developed our own principles-based approach to product development to help 
+                                        you build the right thing, the right way, at the right time.</p>
                                 </div>
 
                             </div>
@@ -101,11 +100,10 @@
                                     <div class="icon mb-20">
                                         <span class="background-main ion-ios-lightbulb-outline"></span>
                                     </div>
-                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">MVP Design
+                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">Design & Prototype
                                     </h4>
-                                    <p>Web design encompasses many different skills and disciplines in the production of
-                                        all
-                                        web.</p>
+                                    <p>Our just-enough design methodology, paired with user feedback via rapid prototyping 
+                                        help you avoid creating solutions in search of problems.</p>
                                 </div>
                             </div>
 
@@ -115,10 +113,9 @@
                                         <span class="background-main ion-ios-cog-outline"></span>
                                     </div>
                                     <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">
-                                        Build Product</h4>
-                                    <p>Web design encompasses many different skills and disciplines in the production of
-                                        all
-                                        web.</p>
+                                        App & Web Development</h4>
+                                    <p>Our Feature Value Framework™ and iterative process focus on continuously releasing 
+                                        small, complete features and creating real value early and often.</p>
                                 </div>
                             </div>
                         </div>
