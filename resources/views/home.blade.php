@@ -113,7 +113,7 @@
                                         <span class="background-main ion-ios-cog-outline"></span>
                                     </div>
                                     <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">
-                                        App & Web Development</h4>
+                                        Development</h4>
                                     <p>Our Feature Value Framework™ and iterative process focus on continuously releasing 
                                         small, complete features and creating real value early and often.</p>
                                 </div>
@@ -391,7 +391,7 @@
                         <div class="container">
                             <div class="d-grid grid-lg-2">
                                 <div class="box-im h-100" data-dsn-grid="move-up">
-                                    <img class="has-top-bottom" src="assets/img/project/project3/3.jpg" alt=""
+                                    <img class="has-top-bottom" src="assets/img/project/project2/home-thumb.jpg" alt=""
                                         data-dsn-move="20%">
                                 </div>
 
@@ -402,13 +402,11 @@
                                         visual
                                         ?</h2>
                                     <div class="pt-30 pb-30 border-top border-bottom">
-                                        <p class="mb-10 max-w570 dsn-up">A system for the young social influencers
-                                            with a club culture and fashion enthusiasts feel identified. We tied with Estucy to
-                                        bring changes with their current idea and make their things better.  </p>
-                                        <p class="dsn-up">Founded in 2018, Estucy was trying to create SAAS based model for retailers.
-                                            With the change of socials people are more comfort in buying ...</p>
+                                        <p class="mb-10 max-w570 dsn-up"> The essence of the luxury fashion brand is reflected on the web components which was done in a precise and
+                                            carefully planned design systems to create the blueprint, design and presence of Triana Studio.</p>
+                                        <p class="dsn-up">The platform was designed to give the premium feelings of the fashion brand....</p>
                                     </div>
-                                    <a href="/project-3" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
+                                    <a href="/project-2" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                         <span>
                                             <span class="left"></span>
                                             <span class="center"></span>

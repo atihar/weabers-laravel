@@ -151,10 +151,8 @@
 
                 <p class="dsn-up max-w570">
                   The essence of the luxury fashion brand is reflected on the web components which was done in a precise and
-                  carefully planned lighting techniques to celebrate the form,
-                  design and presence of Cowboy bikes. 3D cinematography was
-                  crafted to celebrate the purity of a mechanical and
-                  electronically advanced product.
+                  carefully planned design systems to create the blueprint, design and presence of Triana Studio. The platform 
+                  was designed to give the premium feelings of the fashion brand
                 </p>
               </div>
             </div>
