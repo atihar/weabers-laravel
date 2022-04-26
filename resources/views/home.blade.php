@@ -462,7 +462,7 @@
                                         <span
                                             class="blog-catgeory background-main p-10 text-uppercase letter-spacing-2 mb-10 theme-color"><a
                                                 href="/faq" class="effect-ajax">MVP Launch</a> </span>
-                                        <h4 class="title-block mb-20"><a href="post.html" class="effect-ajax">Dont get
+                                        <h4 class="title-block mb-20"><a href="/faq" class="effect-ajax">Dont get
                                             overwhelmed</a>
                                         </h4>
                                         <p>Creating your app from scratch can feel overwhelming and complicated at first. 
