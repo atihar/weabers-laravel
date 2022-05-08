@@ -23,13 +23,8 @@
             </span>
         </div>
 
-        <div class="loading-circle">
-            <p class="loading-count">
-                <span class="percent" id="loadingNumber">0</span>
-            </p>
-        </div>
 
-        <span class="loading-text text-uppercase mt-30">Loading ...</span>
+        <span class="loading-text text-uppercase mt-30">BUILDING EXP...</span>
 
     </div>
     <!-- ========== End Loading Page ========== -->
