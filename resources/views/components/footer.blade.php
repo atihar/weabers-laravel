@@ -18,8 +18,7 @@
         </div>
 
         <div class="copyright-social d-flex justify-content-between">
-            <div class="copright-text heading-color text-uppercase">©2016 - 2022 weabers  x <a
-                    class="theme-color" href="#" target="_blank">Launchr Studio</a>
+            <div class="copright-text heading-color text-uppercase">©2016 - 2023 weabers 
             </div>
 
             <div class="footer-social p-relative">

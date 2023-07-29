@@ -48,10 +48,14 @@
                         <span class="number p-large fw-400 theme-color dsn-up">01</span>
                         <div class="d-grid grid-lg-2 pt-20 mt-20">
                             <span class="line"></span>
-                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Mapping & Research</h4>
-                            <p class="dsn-up">You can hire our user experience specialists to improve your software or website. 
-                                This service requires a deeper understanding of customer needs and business goals to be successful. 
-                                It’s a repeatable process that requires analysis, insight, design and execution.</p>
+                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Product Discovery</h4>
+                            <p class="dsn-up">
+                                <strong>Market Research:</strong> Evaluating market trends, consumer behavior, and opportunities.<br><br>
+                                <strong>Competitor Analysis: </strong>Identifying competitor strategies, strengths, and weaknesses.<br><br>
+                                <strong>User Research: </strong>Conducting surveys, interviews, and usability tests to understand user needs and preferences.<br><br>
+                                <strong>Customer Journey Mapping: </strong>Visualizing the user's process to accomplish a goal with your product.<br><br>
+                                <strong>Product Roadmap Creation: </strong>Outlining the future direction and timeline of product development.<br><br>
+                            </p>
                         </div>
                     </div>
 
@@ -60,10 +64,15 @@
                         <span class="number p-large fw-400 theme-color dsn-up">02</span>
                         <div class="d-grid grid-lg-2 pt-20 mt-20">
                             <span class="line"></span>
-                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Product Development</h4>
-                            <p class="dsn-up">Looking to build a new digital product? Our studio practices Lean UX and Agile to deliver 
-                                working software with a phased approach to feature selection and delivery.
-                            </p>
+                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Design & Development</h4>
+                            <p class="dsn-up">
+                                 <strong>UX/UI Design: </strong> Creating user-friendly and attractive interfaces for your digital product.<br><br>
+                                 <strong>Prototyping:  </strong> Developing an early, interactive model of the product to test and refine its functionality.<br><br>
+                                 <strong>iOS App Development: </strong> Creating applications for iOS, Android, or cross-platform solutions.<br><br>
+                                 <strong>Custom Web Development:  </strong> Building responsive websites and content management systems.<br><br>
+                                 <strong>MVP Development:  </strong>  Building a minimum viable product with core functionalities to gather user feedback for further improvement.<br><br>
+                                 <strong>E-commerce Store:  </strong>  Building a onlnine store including e-commerce functionalities and automations.<br><br>
+                                </p>
                         </div>
                     </div>
 
@@ -71,10 +80,32 @@
                         <span class="number p-large fw-400 theme-color dsn-up">03</span>
                         <div class="d-grid grid-lg-2 pt-20 mt-20">
                             <span class="line"></span>
-                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Early Stage Support</h4>
+                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Growth & Marketing</h4>
+                            <p class="dsn-up">
+                                <strong>SEO Optimization: </strong> Optimizing your website to improve visibility and rankings on search engines.<br><br> 
+                                <strong>Social Media Marketing: </strong> Using platforms like Facebook, Instagram, Twitter, and LinkedIn to engage with audiences and promote your product.<br><br> 
+                                <strong>Analytics and Reporting: </strong> Providing data-driven insights and reports on marketing campaigns to measure effectiveness and inform future strategies.<br><br> 
+                                <strong>App Store Optimization: </strong> Optimizing mobile app visibility within app stores and improving app conversion rate<br><br> 
+                                <strong>Email Marketing Automation:  </strong> Sending direct emails to targeted groups of people to promote your product and build relationships.<br><br> 
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="service-item">
+                        <span class="number p-large fw-400 theme-color dsn-up">04</span>
+                        <div class="d-grid grid-lg-2 pt-20 mt-20">
+                            <span class="line"></span>
+                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Startup Early Stage Support</h4>
                             <p class="dsn-up">Whether you're looking to start a business, or reinvent one, we have a niche service to support 
                                 you. Our team can provide valuable input and support during the early phases of business development.
-
+                                <p><strong>Services : </strong></p>
+                                <p>Pitch Deck Design<br>
+                                    Content Design<br>
+                                   Brand Identity generation<br>
+                                    Choosing brand name<br>
+                                    Smoke testing(early stage user test) 
+                                        .</p>
+                            </p>
                             </p>
                         </div>
                     </div>

@@ -47,6 +47,10 @@ Route::get('/faq', function () {
     return view('faq');
 });
 
+Route::get('/website-redesign', function () {
+    return view('redesign');
+});
+
 // Projects static route 
 Route::get('/project', function () {
     return view('project1');

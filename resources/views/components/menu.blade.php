@@ -40,23 +40,18 @@
                     <li class="dsn-drop-down">
                         <a href="/about" class="user-no-selection">
 
-                            <span class="dsn-title-menu">What we do</span>
+                            <span class="dsn-title-menu">About</span>
                             <span class="dsn-meta-menu">03</span>
                             <span class="dsn-bg-arrow"></span>
                         </a>
 
                         <ul>
-                            <li class="dsn-back-menu">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                    data-dsn-src="assets/img/left-chevron.svg" alt="">
-                                <span class="dsn-title-menu">What we do</span>
-                            </li>
-
-
-                            <li class="dsn-back-menu">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                    data-dsn-src="assets/img/left-chevron.svg" alt="">
-                                <span class="dsn-title-menu">Our Process</span>
+    
+                            <li>
+                                <a href="/about">
+                                <span class="dsn-title-menu">Who we are</span>
+                                <span class="dsn-meta-menu">01</span>
+                                </a>
                             </li>
 
 
@@ -70,7 +65,14 @@
                             <li>
                                 <a href="/faq">
                                     <span class="dsn-title-menu">MVP FAQ</span>
-                                    <span class="dsn-meta-menu">02</span>
+                                    <span class="dsn-meta-menu">03</span>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="/website-redesign">
+                                    <span class="dsn-title-menu">Why Website redesign</span>
+                                    <span class="dsn-meta-menu">03</span>
                                 </a>
                             </li>
                         </ul>
@@ -106,7 +108,7 @@
                     <div class="nav__info">
                         <div class="nav-content">
                             <p class="title-line">
-                                Studio</p>
+                                Weabers</p>
                             <p>
                                 26-30 New Damietta<br>
                                 El-Mahalla El-Kubra, SK1 66LM</p>

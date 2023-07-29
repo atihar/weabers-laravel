@@ -12,20 +12,30 @@
                     <div class="container">
                         <div class="content-hero p-relative h-100 dsn-hero-parallax-content">
                             <p class="subtitle p-relative letter-spacing-2">
-                                <span class="p-10 background-section dsn-load-animate theme-color">Design, development
-                                    and identity for your product
+                                <span class="p-10 background-section dsn-load-animate theme-color">Results-driven web design, development, SEO, branding, & more
                                 </span>
                             </p>
-                            <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Your Partner for next big leap</h1>
-                            <a href="/about" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
+                            <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Get a beautiful website/app that drives revenue</h1>
+                            <a href="/contact" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                 <span>
                                     <span class="left"></span>
                                     <span class="center"></span>
                                     <span class="right"></span>
                                 </span>
-                                <span class="text">What we do</span>
+                                <span class="text">Get a proposal</span>
                                 <span class="plus-icon"></span>
                             </a>
+                            <div class="d-flex mt-45">
+                               <img src="https://global-uploads.webflow.com/637116ed63d653540d84bcc3/637116ee63d6537b4c84bd40_Star%20cluster.svg">
+                            </div>
+                            <p class="mt-15">"Our new site has a 60% higher conversion<br> rate than our old one"</p>
+                            <div class="mt-15 d-flex">
+                                <img src="/assets/img/avatar/client-1.jpeg" alt="..." style="height:70px; width: auto; border-radius:50%">
+                                <p class="ml-5">
+                                    JpMacavoy<br>
+                                    Triana Studio
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="dsn-container dsn-right-container border-bottom pt-section"></div>
@@ -41,7 +51,7 @@
                                 <div class="section-title">
                                     <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>ABOUT</h5>
                                     <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper dsn-text">
-                                        Building agile products for <br> Business Impact
+                                        Building human-centric products for <br> Business Impact
                                     </h2>
                                 </div>
 
@@ -75,9 +85,9 @@
                 <!-- ========== Services ========== -->
                 <section class="services section-margin" data-dsn-animate="section">
                     <div class="container section-title mb-70">
-                        <h5 class="sup-title theme-color mb-10 dsn-up"><span>02</span>WE LOVE PARTNERSHIP FOR</h5>
+                        <h5 class="sup-title theme-color mb-10 dsn-up"><span>02</span>Everything you need</h5>
                         <h2 class="section-title dsn-text-shadow text-transform-upper dsn-text">
-                            Accelerating Business</h2>
+                            For Success</h2>
                     </div>
 
                     <div class="container">
@@ -87,10 +97,14 @@
                                     <div class="icon mb-20">
                                         <span class="background-main ion-ios-color-wand-outline"></span>
                                     </div>
-                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">Mapping & Discover
+                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">Product Discovery
                                     </h4>
-                                    <p>We've developed our own principles-based approach to product development to help 
-                                        you build the right thing, the right way, at the right time.</p>
+                                    <p>Product Research<br>
+                                    Journey Mapping<br>
+                                    User Flow Discover<br>
+                                    Competitor Analysis<br>
+                                    Market Analysis
+                                    </p>
                                 </div>
 
                             </div>
@@ -100,10 +114,14 @@
                                     <div class="icon mb-20">
                                         <span class="background-main ion-ios-lightbulb-outline"></span>
                                     </div>
-                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">Design & Prototype
+                                    <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">Design & Development
                                     </h4>
-                                    <p>Our just-enough design methodology, paired with user feedback via rapid prototyping 
-                                        help you avoid creating solutions in search of problems.</p>
+                                    <p>Custom Web Design<br>
+                                    Interactive Prototye<br>
+                                    ios app development<br>
+                                    Landing page<br>
+                                    E-commerce & Membership   
+                                </p>
                                 </div>
                             </div>
 
@@ -113,9 +131,13 @@
                                         <span class="background-main ion-ios-cog-outline"></span>
                                     </div>
                                     <h4 class="title-block letter-spacing-2 text-transform-upper mb-20">
-                                        Development</h4>
-                                    <p>Our Feature Value Framework™ and iterative process focus on continuously releasing 
-                                        small, complete features and creating real value early and often.</p>
+                                        Growth & Marketing</h4>
+                                    <p>Social Media Presence<br>
+                                    Video Production<br>
+                                    Content Writing<br>
+                                    PPC Campaign<br>
+                                    SEO Optimization  
+                                        .</p>
                                 </div>
                             </div>
                         </div>
@@ -124,7 +146,7 @@
                 <!-- ========== End Services ========== -->
 
                 <!-- ========== Feature ========== -->
-                <div class="dsn-container section-margin" data-dsn-animate="section">
+                <!-- <div class="dsn-container section-margin" data-dsn-animate="section">
                     <section class="feature-section p-relative background-section v-dark v-dark-head">
                         <div class="p-absolute w-100 h-100 top-0 bottom-0">
                             <div class="h-100 w-100 top-0 right-0 bottom-0 before-z-index" data-dsn-grid="move-up"
@@ -200,7 +222,7 @@
                             </div>
                         </div>
                     </section>
-                </div>
+                </div> -->
                 <!-- ========== End Feature ========== -->
 
                 <!-- ========== Work Section ========== -->
@@ -391,28 +413,24 @@
                         <div class="container">
                             <div class="d-grid grid-lg-2">
                                 <div class="box-im h-100" data-dsn-grid="move-up">
-                                    <img class="has-top-bottom" src="assets/img/project/project2/home-thumb.jpg" alt=""
+                                    <img class="has-top-bottom" src="assets/img/project/project2/home-thumb.png" alt=""
                                         data-dsn-move="20%">
                                 </div>
 
                                 <div class="box-info section-padding p-relative section-margin pl-40 pr-40">
-                                    <h5 class="sup-title theme-color mb-10 dsn-up"><span>05</span>BEST FEATURES</h5>
-                                    <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper dsn-text">How is
-                                        your
-                                        visual
-                                        ?</h2>
+                                    <h5 class="sup-title theme-color mb-10 dsn-up"><span>05</span>Already have a website?</h5>
+                                    <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper dsn-text">5 Important Reasons To Redesign Your Website</h2>
                                     <div class="pt-30 pb-30 border-top border-bottom">
-                                        <p class="mb-10 max-w570 dsn-up"> The essence of the luxury fashion brand is reflected on the web components which was done in a precise and
-                                            carefully planned design systems to create the blueprint, design and presence of Triana Studio.</p>
-                                        <p class="dsn-up">The platform was designed to give the premium feelings of the fashion brand....</p>
+                                        <p class="mb-10 max-w570 dsn-up"> A website redesign always implies a lot of work. It doesn't matter if you do it yourself or hire a freelancer or agency to do it for you. A redesign not only involves time but also an allocated budget. The best part, though,</p>
+                                        <p class="dsn-up">is the excitement of having a brand-new online presence at the end of the process that you will be proud to show everyone......</p>
                                     </div>
-                                    <a href="/project-2" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
+                                    <a href="/website-redesign" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                         <span>
                                             <span class="left"></span>
                                             <span class="center"></span>
                                             <span class="right"></span>
                                         </span>
-                                        <span class="text">View Case</span>
+                                        <span class="text">View more</span>
                                         <span class="plus-icon"></span>
                                     </a>
                                 </div>

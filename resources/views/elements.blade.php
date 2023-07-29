@@ -15,8 +15,8 @@
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Community For Creatives</h1>
                     <p class="p-large">With good branding, you can give your brand a more human side, which your customers can 
-                        relate to more than a company that's strictly all business.We have shared some of our elements to
-                        make it easy for your next branding.</p>
+                        relate to more than a company that's strictly all business.We have shared some of free elements to
+                        make it easy for your next project.</p>
                 </div>
             </div>
             <div class="dsn-container dsn-right-container border-bottom pt-section"></div>
@@ -60,7 +60,7 @@
                                                     <span>Instagram</span> <span>branded story</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $149.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
@@ -84,7 +84,7 @@
                                                     <span>The Business Proposal</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $59.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
@@ -108,7 +108,7 @@
                                                     <span>Style</span> <span>Guide Kit</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $199.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
@@ -132,7 +132,7 @@
                                                     <span>Investor Pitch Deck</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $29.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
@@ -155,7 +155,7 @@
                                                     <span>Product Promotion Video</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $499.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
@@ -178,7 +178,7 @@
                                                     <span>MVP Mockup + Animation</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $349.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
@@ -201,7 +201,7 @@
                                                     <span>Campaign Guideline 2022</span>
                                                 </div>
                                                 <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    $299.00</h4>
+                                                    download</h4>
                                             </div>
 
                                         </div>
