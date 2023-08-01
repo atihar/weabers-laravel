@@ -25,13 +25,13 @@
                                 <span class="text">Get a proposal</span>
                                 <span class="plus-icon"></span>
                             </a>
-                            <div class="d-flex mt-45">
+                            <div class="d-flex mt-90">
                                <img src="https://global-uploads.webflow.com/637116ed63d653540d84bcc3/637116ee63d6537b4c84bd40_Star%20cluster.svg">
                             </div>
-                            <p class="mt-15">"Our new site has a 60% higher conversion<br> rate than our old one"</p>
+                            <p class="mt-15 dsn-text">"Our new site has a 60% higher conversion<br> rate than our old one"</p>
                             <div class="mt-15 d-flex">
                                 <img src="/assets/img/avatar/client-1.jpeg" alt="..." style="height:70px; width: auto; border-radius:50%">
-                                <p class="ml-5">
+                                <p class="ml-10 mt-5">
                                     JpMacavoy<br>
                                     Triana Studio
                                 </p>

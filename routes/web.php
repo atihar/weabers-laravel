@@ -19,7 +19,7 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/portfolio', function () {
+Route::get('/case-studies', function () {
     return view('works');
 });
 
@@ -27,7 +27,7 @@ Route::get('/our-process', function () {
     return view('process');
 });
 
-Route::get('/elements', function () {
+Route::get('/portfolio', function () {
     return view('elements');
 });
 

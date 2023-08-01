@@ -14,7 +14,7 @@
                         <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">SOME OF OUR
                             LATEST</span>
                     </p>
-                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">OUR WORKS</h1>
+                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Case Stuidies</h1>
                     <p class="p-large">We've shipped over 80 digital products in the past six years. 
                         Most of which, we designed and built from the ground up. Here's a few of our favorites:
                     </p>

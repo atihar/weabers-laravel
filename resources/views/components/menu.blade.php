@@ -78,7 +78,6 @@
                         </ul>
 
                     </li>
-
                     <li>
                         <a href="/portfolio" class="user-no-selection">
 
@@ -88,13 +87,14 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/elements" class="user-no-selection">
+                        <a href="/case-studies" class="user-no-selection">
 
-                            <span class="dsn-title-menu">Elements</span>
+                            <span class="dsn-title-menu">Case Studies</span>
                             <span class="dsn-meta-menu">04</span>
                             <span class="dsn-bg-arrow"></span>
                         </a>
                     </li>
+                    
                     <li>
                         <a href="/contact" class="user-no-selection">
 

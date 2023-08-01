@@ -1,6 +1,6 @@
 @extends('layout')
  
-@section('title', 'Home Page')
+@section('title', 'Portfolio')
  
 @section('main')
 <main class="main-root">
@@ -11,12 +11,10 @@
             <div class="container">
                 <div class="content-hero p-relative d-flex flex-column h-100 dsn-hero-parallax-content">
                     <p class="subtitle p-relative letter-spacing-2">
-                        <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">Elements for branding</span>
+                        <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">Portfolio</span>
                     </p>
-                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Community For Creatives</h1>
-                    <p class="p-large">With good branding, you can give your brand a more human side, which your customers can 
-                        relate to more than a company that's strictly all business.We have shared some of free elements to
-                        make it easy for your next project.</p>
+                    <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Weaving the Web of Success</h1>
+                    <p class="p-large">Welcome to our portfolio at Weabers, where we celebrate the success of our diverse range of clients. Our work is a reflection of our passion for web design, our knack for strategic creativity, and our commitment to providing seamless digital experiences. Scroll through to see some of the highlights of our impressive web designs and discover why businesses around the globe trust Weabers.</p>
                 </div>
             </div>
             <div class="dsn-container dsn-right-container border-bottom pt-section"></div>
@@ -29,47 +27,24 @@
                 <div class="container">
                     <div class="work-container">
                         <div class="filtering d-flex justify-content-between mb-50">
-                            <h3 class="sm-title-block border-before text-uppercase">Filter by</h3>
+                            <h3 class="sm-title-block border-before text-uppercase">Filter by tags</h3>
                             <div class="filtering-wrap w-auto">
                                 <div class="filtering">
                                     <div class="selector"></div>
                                     <button type="button" data-filter="*" class="active">All</button>
-                                    <button type="button" data-filter=".brand">Social</button>
-                                    <button type="button" data-filter=".photography">Video</button>
-                                    <button type="button" data-filter=".fashion">Startup</button>
-                                    <button type="button" data-filter=".product">Presentation</button>
+                                    <button type="button" data-filter=".ecommerce">Ecommerce</button>
+                                    <button type="button" data-filter=".web">Website</button>
+                                    <button type="button" data-filter=".branding">Branding</button>
+                                    <button type="button" data-filter=".app">Mobile App</button>
                                 </div>
                             </div>
                         </div>
                         <div class="w-100 dsn-item-filter dsn-isotope dsn-masonry d-grid grid-lg-2 grid-md-2"
                             data-dsn-item=".work-item" data-dsn-isotope='{"space": 30 }'>
 
-                            <a href="#"
-                                class="work-item induction photography architecture p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/1.jpg"
-                                            alt="" data-dsn-position="100% 50%">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Social</span>
-                                                    <span>Instagram</span> <span>branded story</span>
-                                                </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
-                                            </div>
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-
-                            <a href="#"
-                                class="work-item induction photography architecture p-10 border effect-ajax"
+                            <a href="https://180re.ca/" target="_blank"
+                                class="work-item induction web architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -80,11 +55,15 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Business</span>
-                                                    <span>The Business Proposal</span>
+                                                    <span class="date v-light background-main">180re</span>
+                                                    <span>Real Estate Creative Agency</span>
                                                 </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
                                             </div>
 
                                         </div>
@@ -92,8 +71,8 @@
                                 </div>
                             </a>
 
-                            <a href="#"
-                                class="work-item induction photography architecture p-10 border effect-ajax"
+                            <a href="https://trianastudio.com/" target="_blank"
+                                class="work-item induction web architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -104,20 +83,51 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Brand</span>
-                                                    <span>Style</span> <span>Guide Kit</span>
+                                                    <span class="date v-light background-main">Triana Studio</span>
+                                                    <span>Agency Portfolio Website</span>
                                                 </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
                                             </div>
 
                                         </div>
                                     </div>
                                 </div>
                             </a>
+                            
+                            <a href="https://pluralinvesting.com" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/18.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Plural Investing</span>
+                                                        <span>Asset management firm website</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
 
-                            <a href="#"
-                                class="work-item induction photography architecture p-10 border effect-ajax"
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+
+                            <a href="https://hydracup.com/" target="_blank"
+                                class="work-item induction web architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -128,11 +138,15 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Startup</span>
-                                                    <span>Investor Pitch Deck</span>
+                                                    <span class="date v-light background-main">Hydra Cup</span>
+                                                    <span>Single Product Shop</span>
                                                 </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
                                             </div>
 
                                         </div>
@@ -140,7 +154,7 @@
                                 </div>
                             </a>
 
-                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://bengalimentalhealth.org" target="_blank" class="work-item induction web p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -151,11 +165,15 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Brand</span>
-                                                    <span>Product Promotion Video</span>
+                                                    <span class="date v-light background-main">BMHM</span>
+                                                    <span>Consultant Website</span>
                                                 </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
                                             </div>
 
                                         </div>
@@ -163,7 +181,7 @@
                                 </div>
                             </a>
 
-                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://leagroupbd.com" target="_blank" class="work-item induction web p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -174,11 +192,15 @@
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Presentation</span>
-                                                    <span>MVP Mockup + Animation</span>
+                                                    <span class="date v-light background-main">Lea Group</span>
+                                                    <span>Company Website</span>
                                                 </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
                                             </div>
 
                                         </div>
@@ -186,28 +208,429 @@
                                 </div>
                             </a>
 
-                            {{-- <a href="#" class="work-item induction photography p-10 border effect-ajax"
+                         <a href="https://www.himpanzee.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/project/project7/1.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/7.jpg"
                                             alt="">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Social Media</span>
-                                                    <span>Campaign Guideline 2022</span>
+                                                    <span class="date v-light background-main">Himpanzee</span>
+                                                    <span>Eco startup website</span>
                                                 </div>
-                                                <h4 class="title-block sec-title text-uppercase letter-spacing-2">
-                                                    download</h4>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
                                             </div>
 
                                         </div>
                                     </div>
                                 </div>
-                            </a> --}}
+                            </a> 
+
+                            <a href="https://play.google.com/store/apps/details?id=com.travelingbd.app" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/22.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Traveling BD</span>
+                                                        <span>Travelers Booking Platform</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+
+                         <a href="#" class="work-item induction photography p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/8.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Medx</span>
+                                                    <span>Management dashboard</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a> 
+                            <a href="#" class="work-item induction p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/9.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Flamia</span>
+                                                        <span>Restaurant POS</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="https://blockbunny.one/" target="_blank" class="work-item web photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/10.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Block bunny</span>
+                                                        <span>Crypto Startup</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="https://sekandargroup.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/11.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Sekandar group</span>
+                                                        <span>Real Estate Agency Website</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                                <a href="https://estucy.com/" target="_blank"
+                                class="work-item induction web architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/1.jpg"
+                                            alt="" data-dsn-position="100% 50%">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Estucy</span>
+                                                    <span>App</span> <span>Landing Page</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+
+                            <a href="http://portraiture-bd.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/12.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Portraiture</span>
+                                                        <span>Photography Agency Website</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="http://finpowerbd.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/13.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Finpower</span>
+                                                        <span>Finance Agency Website</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="#" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/14.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Placid</span>
+                                                        <span>Hotel Website & Management Sys</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+
+                                <a href="https://www.thesauce.video/" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/21.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">The Sauce</span>
+                                                        <span>Content Creators Platform</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="http://eastcoastpax.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/15.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Eastcoast Pax</span>
+                                                        <span>Online Store</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="https://greencontributor.org" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/16.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Green Contributor</span>
+                                                        <span>NPO Ecommerce Website</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="https://goldentexbd.com" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/17.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Golden Tex</span>
+                                                        <span>RMG Product Showcase Website</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            
+                            <a href="https://voiceinnovators.net/" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/19.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Voice innovators</span>
+                                                        <span>SMS service landing page</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            <a href="https://methodmelody.com" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/20.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Methodmelody</span>
+                                                        <span>Music Learning Platform</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                            
                         </div>
                     </div>
                 </div>
