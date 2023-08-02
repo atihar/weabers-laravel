@@ -98,8 +98,36 @@
                                     </div>
                                 </div>
                             </a>
+                             <a href="https://play.google.com/store/apps/details?id=com.kayafriends.com" target="_blank"
+                                class="work-item induction app architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/26.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Kaya Friends</span>
+                                                    <span>Professional Networking app</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
                             
-                            <a href="https://pluralinvesting.com" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+
+                            <a href="https://pluralinvesting.com" target="_blank" class="work-item induction web p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -127,7 +155,7 @@
                                 </a> 
 
                             <a href="https://hydracup.com/" target="_blank"
-                                class="work-item induction web architecture p-10 border effect-ajax"
+                                class="work-item induction web ecommerce p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -181,7 +209,7 @@
                                 </div>
                             </a>
 
-                            <a href="https://leagroupbd.com" target="_blank" class="work-item induction web p-10 border effect-ajax"
+                            <a href="https://leagroupbd.com" target="_blank" class="work-item web p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -235,7 +263,7 @@
                                 </div>
                             </a> 
 
-                            <a href="https://play.google.com/store/apps/details?id=com.travelingbd.app" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://play.google.com/store/apps/details?id=com.travelingbd.app" target="_blank" class="work-item induction app p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -473,7 +501,7 @@
                                     </div>
                                 </a> 
 
-                                <a href="https://www.thesauce.video/" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                <a href="https://www.thesauce.video/" target="_blank" class="work-item induction web  p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -499,7 +527,7 @@
                                         </div>
                                     </div>
                                 </a> 
-                            <a href="http://eastcoastpax.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
+                            <a href="http://eastcoastpax.com/" target="_blank" class="work-item induction web ecommerce p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -525,7 +553,7 @@
                                         </div>
                                     </div>
                                 </a> 
-                            <a href="https://greencontributor.org" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://greencontributor.org" target="_blank" class="work-item induction web p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -551,7 +579,7 @@
                                         </div>
                                     </div>
                                 </a> 
-                            <a href="https://goldentexbd.com" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://goldentexbd.com" target="_blank" class="work-item induction web branding p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -578,7 +606,7 @@
                                     </div>
                                 </a> 
                             
-                            <a href="https://voiceinnovators.net/" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://voiceinnovators.net/" target="_blank" class="work-item induction web p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -604,7 +632,7 @@
                                         </div>
                                     </div>
                                 </a> 
-                            <a href="https://methodmelody.com" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                            <a href="https://methodmelody.com" target="_blank" class="work-item induction ecommerce p-10 border effect-ajax"
                                     data-dsn-ajax="work">
                                     <div class="work-item-inner background-section p-30">
                                         <div class="img-next-box before-z-index w-100 h-100 over-hidden">
@@ -630,6 +658,169 @@
                                         </div>
                                     </div>
                                 </a> 
+                            <a href="https://play.google.com/store/apps/details?id=com.elife.app" target="_blank" class="work-item induction photography p-10 border effect-ajax"
+                                    data-dsn-ajax="work">
+                                    <div class="work-item-inner background-section p-30">
+                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/23.jpg"
+                                                alt="">
+                                        </div>
+                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                            <div class="effect-ajax d-flex align-items-center">
+                                                <div class="text">
+                                                    <div class="metas background-main d-inline-block mb-10">
+                                                        <span class="date v-light background-main">Elife</span>
+                                                        <span>Map Explorer App</span>
+                                                    </div>
+                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                        visit
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                    </svg>
+                                                    </h4>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> 
+                                 <a href="https://www.behance.net/gallery/124121101/High-Societe-Branding" target="_blank"
+                                class="work-item induction branding architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/24.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">High Societe</span>
+                                                    <span>Branding and Web Design</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://apps.apple.com/gb/app/estucy/id1588943765" target="_blank"
+                                class="work-item induction app architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/25.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Estucy</span>
+                                                    <span>Unified marketplace app</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://play.google.com/store/apps/details?id=com.kayafriends.com" target="_blank"
+                                class="work-item induction app architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/26.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Kaya Friends</span>
+                                                    <span>Professional Networking app</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+
+                            <a href="https://brandable.com.au" target="_blank"
+                                class="work-item induction web architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/27.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Brandable</span>
+                                                    <span>Product base optimization</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+
+                            <a href="https://torontofilmforum.org/" target="_blank"
+                                class="work-item induction web architecture p-10 border effect-ajax"
+                                data-dsn-ajax="work">
+                                <div class="work-item-inner background-section p-30">
+                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/28.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
+                                        <div class="effect-ajax d-flex align-items-center">
+                                            <div class="text">
+                                                <div class="metas background-main d-inline-block mb-10">
+                                                    <span class="date v-light background-main">Toronto Films</span>
+                                                    <span>Films Forum Community Website</span>
+                                                </div>
+                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
+                                                    visit
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                                                </svg>
+                                                </h4>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
                             
                         </div>
                     </div>

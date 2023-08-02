@@ -1,6 +1,6 @@
 @extends('layout')
  
-@section('title', 'Portfolio')
+@section('title', 'Case Studies')
  
 @section('main')
 <main class="main-root">
@@ -16,7 +16,7 @@
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Case Stuidies</h1>
                     <p class="p-large">We've shipped over 80 digital products in the past six years. 
-                        Most of which, we designed and built from the ground up. Here's a few of our favorites:
+                        Most of which, we designed and built from the ground up. Here's a few product cases:
                     </p>
                 </div>
             </div>
