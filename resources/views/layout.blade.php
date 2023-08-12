@@ -24,7 +24,7 @@
 
     <!-- Font & styles -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/x-icon"  href="/assets/img/favicon.png">
     <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
     <link href="assets/css/plugins.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />

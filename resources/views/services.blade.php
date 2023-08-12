@@ -48,7 +48,10 @@
                         <span class="number p-large fw-400 theme-color dsn-up">01</span>
                         <div class="d-grid grid-lg-2 pt-20 mt-20">
                             <span class="line"></span>
-                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Product Discovery</h4>
+                             <div>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Product Discovery</h4>
+                                <img src="https://www.greenbook.org/mr/wp-content/uploads/2021/03/pexels-tima-miroshnichenko-6914476.jpg"/>
+                            </div>
                             <p class="dsn-up">
                                 <strong>Market Research:</strong> Evaluating market trends, consumer behavior, and opportunities.<br><br>
                                 <strong>Competitor Analysis: </strong>Identifying competitor strategies, strengths, and weaknesses.<br><br>
@@ -64,7 +67,10 @@
                         <span class="number p-large fw-400 theme-color dsn-up">02</span>
                         <div class="d-grid grid-lg-2 pt-20 mt-20">
                             <span class="line"></span>
-                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Design & Development</h4>
+                            <div>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Design & Development</h4>
+                                <img src="assets/img/about/code.jpg"/>
+                            </div>
                             <p class="dsn-up">
                                  <strong>UX/UI Design: </strong> Creating user-friendly and attractive interfaces for your digital product.<br><br>
                                  <strong>Prototyping:  </strong> Developing an early, interactive model of the product to test and refine its functionality.<br><br>
@@ -80,7 +86,15 @@
                         <span class="number p-large fw-400 theme-color dsn-up">03</span>
                         <div class="d-grid grid-lg-2 pt-20 mt-20">
                             <span class="line"></span>
-                            <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Growth & Marketing</h4>
+                            <div>
+                                <h4 class="p-large letter-spacing-2 text-uppercase dsn-text">Growth & Marketing</h4>
+                                <!-- <video width="320" height="240"  autoplay="true" loop>
+                                    <source src="assets/img/about/marketing.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                    </video> -->
+                                     <video style="width:100%"  src="/assets/img/about/marketing.mp4" muted autoplay loop>
+    </video>
+                            </div>
                             <p class="dsn-up">
                                 <strong>SEO Optimization: </strong> Optimizing your website to improve visibility and rankings on search engines.<br><br> 
                                 <strong>Social Media Marketing: </strong> Using platforms like Facebook, Instagram, Twitter, and LinkedIn to engage with audiences and promote your product.<br><br> 

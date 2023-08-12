@@ -32,8 +32,7 @@
                             <h4
                                 class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
                                 Email Address</h4>
-                            <a class="d-block" href="#">info@weabers.com</a>
-                            <a class="d-block" href="#">hello@weabers.com</a>
+                            <a class="d-block" href="mailto:info@weabers.com">info@weabers.com</a>
                         </div>
 
                         <div class="item dsn-up">
@@ -48,7 +47,8 @@
                             <h4
                             class="sup-title p-10 d-inline-block background-section dsn-load-animate theme-color mb-20">
                             Address 2</h4>
-                        <p class="heading-color">Rickson Ave, Ontario <br> CANADA
+                        <p class="heading-color">69 Kortright Rd W, Guelph
+                        <br> ON N1G 3B3, Canada
                         </p>
                         </div>
                     </div>
@@ -61,12 +61,11 @@
 
                     <div class="d-grid grid-lg-2">
                         <div class="">
-                            <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>Stay connected</h5>
+                            <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>Describe your project</h5>
                             <h2
                                 class="section-title before-text mb-30 dsn-text-shadow text-transform-upper dsn-text">
-                                Don’t be shy. <br> Say hi.</h2>
-                            <p class="dsn-up max-w570">It’s all about the humans behind a brand and those
-                                experiencing it, we’re right there. In the middle.</p>
+                                Get a quote <br> for free</h2>
+                            <p class="dsn-up max-w570">We'll analyze your project and get back to you as soon as possible with how we can make an impact in your business</p>
                         </div>
                         <div class="form-box d-flex flex-column">
                             <form id="contact-form" class="form w-100" method="POST" action="{{ url('/contact')}}" data-toggle="validator">
@@ -154,14 +153,14 @@
             <div class="next-page section-padding background-section" data-dsn-animate="section">
                 <div class="container">
                     <div class="next-page-inner background-section border p-10  dsn-up">
-                        <a href="/about"
+                        <a href="/portfolio"
                             class="background-main effect-ajax section-padding w-100 p-relative over-hidden">
                             <div class="bg-circle-dotted"></div>
 
                             <div class="section-title d-flex text-center flex-column align-items-center">
-                                <h5 class="sup-title theme-color mb-10">About Us</h5>
+                                <h5 class="sup-title theme-color mb-10">What we have done</h5>
                                 <h2 class="section-title dsn-text-shadow  before-text text-transform-upper text-center"
-                                    data-text="Digital Experiences">Digital Experiences</h2>
+                                    data-text="Digital Experiences">View Portfolio</h2>
                             </div>
 
                         </a>

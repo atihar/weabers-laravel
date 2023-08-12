@@ -14,7 +14,7 @@
                         <span class="pl-10 pr-10 background-section dsn-load-animate theme-color">Portfolio</span>
                     </p>
                     <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Weaving the Web of Success</h1>
-                    <p class="p-large">Welcome to our portfolio at Weabers, where we celebrate the success of our diverse range of clients. Our work is a reflection of our passion for web design, our knack for strategic creativity, and our commitment to providing seamless digital experiences. Scroll through to see some of the highlights of our impressive web designs and discover why businesses around the globe trust Weabers.</p>
+                    <p class="p-large">Our work is a reflection of our passion for design and development, our knack for strategic creativity, and our commitment to providing seamless digital experiences. Scroll through to see some of the highlights of our impressive web designs and discover why businesses around the globe trust Weabers.</p>
                 </div>
             </div>
             <div class="dsn-container dsn-right-container border-bottom pt-section"></div>
@@ -24,7 +24,7 @@
         <div class="wrapper">
             <section class="our-work our-work-col section-margin p-relative dsn-load-animate not-filter dsn-filter"
                 data-dsn-animate="section">
-                <div class="container">
+                <div class="container-fluid px-0 px-lg-5">
                     <div class="work-container">
                         <div class="filtering d-flex justify-content-between mb-50">
                             <h3 class="sm-title-block border-before text-uppercase">Filter by tags</h3>
@@ -98,20 +98,20 @@
                                     </div>
                                 </div>
                             </a>
-                             <a href="https://play.google.com/store/apps/details?id=com.kayafriends.com" target="_blank"
+                             <a href="https://play.google.com/store/apps/details?id=gifty.app" target="_blank"
                                 class="work-item induction app architecture p-10 border effect-ajax"
                                 data-dsn-ajax="work">
                                 <div class="work-item-inner background-section p-30">
                                     <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/26.jpg"
+                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/29.jpg"
                                             alt="">
                                     </div>
                                     <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
                                         <div class="effect-ajax d-flex align-items-center">
                                             <div class="text">
                                                 <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Kaya Friends</span>
-                                                    <span>Professional Networking app</span>
+                                                    <span class="date v-light background-main">Gifty</span>
+                                                    <span>Gift Scheduler App</span>
                                                 </div>
                                                 <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
                                                     visit

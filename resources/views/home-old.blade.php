@@ -8,16 +8,14 @@
         <div id="dsn-scrollbar">
             <div class="wrapper">
                 <!-- ========== Header Normal ========== -->
-                <header class="header-page over-hidden p-relative header-padding-top dsn-header-animation" style="background-image: url('https://i.gifer.com/9wTk.gif'); background-repeat:no-repeat; background-position: center right;">
+                <header class="header-page over-hidden p-relative header-padding-top dsn-header-animation" style="background-image: url('/assets/img/about/bg.svg'); background-repeat:no-repeat; background-position: center right;">
                     <div class="container">
                         <div class="content-hero p-relative h-100 dsn-hero-parallax-content">
                             <p class="subtitle p-relative letter-spacing-2">
-                                <span class="p-10 background-section dsn-load-animate theme-color">Results-driven web design, mobile app,  SEO, branding, & more
+                                <span class="p-10 background-section dsn-load-animate theme-color">Results-driven web design, development, SEO, branding, & more
                                 </span>
                             </p>
-                            <!-- <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Build the product and business
-you envision with custom software development</h1> -->
-                            <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Bring transformative software development to your business and technological goals.</h1>
+                            <h1 class="title mt-30 dsn-load-animate text-transform-upper mb-20">Get a website/app that drives revenue</h1>
                             <a href="/contact" class="default-button effect-ajax z-index-2 mt-30 dsn-up">
                                 <span>
                                     <span class="left"></span>
@@ -53,8 +51,7 @@ you envision with custom software development</h1> -->
                                 <div class="section-title">
                                     <h5 class="sup-title theme-color mb-10 dsn-up"><span>01</span>ABOUT</h5>
                                     <h2 class="section-title mb-30 dsn-text-shadow text-transform-upper dsn-text">
-                                        <!-- We deliver outcome driven product -->
-                                        Delivering product that create business impact since last 7 years
+                                        Building human-centric products for <br> Business Impact
                                     </h2>
                                 </div>
 
@@ -229,245 +226,184 @@ you envision with custom software development</h1> -->
                 <!-- ========== End Feature ========== -->
 
                 <!-- ========== Work Section ========== -->
-            <section class="our-work our-work-col section-margin p-relative dsn-load-animate not-filter dsn-filter"
-                data-dsn-animate="section">
-                    <!-- ========== Heading ========== -->
+                <section class="work-section p-relative section-margin dsn-swiper over-hidden"
+                    data-dsn-title="our Portfolio"
+                    data-dsn-option='{"slidesPerView":1.5,"spaceBetween":30,"centeredSlides":true }'
+                    data-dsn-animate="section">
+
                     <div class="container section-title d-flex text-center flex-column align-items-center mb-70">
                         <h5 class="sup-title theme-color mb-10 dsn-up"><span>04</span>OUR WORK</h5>
                         <h2 class="section-title dsn-text-shadow text-transform-upper text-center dsn-text">Featured
                             Projects</h2>
                     </div>
 
-                <div class="container px-0 px-lg-5">
-                    <div class="work-container">
-                        <div class="w-100 dsn-item-filter dsn-isotope dsn-masonry d-grid grid-lg-2 grid-md-2"
-                            data-dsn-item=".work-item" data-dsn-isotope='{"space": 30 }'>
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper v-dark-head">
 
+                            <div class="swiper-slide over-hidden work-item h-70-v v-dark-head">
+                                <div class="box-img p-relative over-hidden before-z-index" data-overlay="5"
+                                    data-swiper-parallax-scale="0.95">
+                                    <img class="cover-bg-img"
+                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-dsn-src="assets/img/project/project1/1.jpg" alt="">
+                                </div>
 
-                            <a href="https://180re.ca/" target="_blank"
-                                class="work-item induction web architecture p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/2.jpg"
-                                            alt="">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">180re</span>
-                                                    <span>Real Estate Creative Agency</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
-
+                                <div class="box-content p-absolute bottom-0 border text-center">
+                                    <div class="box-content-inner">
+                                        <div class="metas d-inline-block mb-15">
+                                            <span>startup</span> <span>finance</span>
                                         </div>
+                                        <h4 class="sec-title text-uppercase letter-spacing-2">
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project">Finapp</a>
+                                        </h4>
                                     </div>
                                 </div>
-                            </a>
+                            </div>
 
-                            <a href="https://trianastudio.com/" target="_blank"
-                                class="work-item induction web architecture p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/3.jpg"
-                                            alt="">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Triana Studio</span>
-                                                    <span>Agency Portfolio Website</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
+                            <div class="swiper-slide over-hidden work-item h-70-v v-dark-head">
+                                <div class="box-img p-relative over-hidden before-z-index" data-overlay="7"
+                                    data-swiper-parallax-scale="0.95">
+                                    <img class="cover-bg-img"
+                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-dsn-src="assets/img/project/project2/1.jpg" alt="">
+                                </div>
 
+                                <div class="box-content p-absolute bottom-0 border text-center">
+                                    <div class="box-content-inner">
+                                        <div class="metas d-inline-block mb-15">
+                                            <span>website</span> <span>media</span>
                                         </div>
+                                        <h4 class="sec-title text-uppercase letter-spacing-2">
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-2">Triana Studio</a>
+                                        </h4>
                                     </div>
                                 </div>
-                            </a>
-                             <a href="https://play.google.com/store/apps/details?id=gifty.app" target="_blank"
-                                class="work-item induction app architecture p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/29.jpg"
-                                            alt="">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Gifty</span>
-                                                    <span>Gift Scheduler App</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
+                            </div>
 
+                            <div class="swiper-slide over-hidden work-item h-70-v v-dark-head">
+                                <div class="box-img p-relative over-hidden before-z-index" data-overlay="5"
+                                    data-swiper-parallax-scale="0.95">
+                                    <img class="cover-bg-img"
+                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-dsn-src="assets/img/project/project7/1.jpg" alt="">
+                                </div>
+
+                                <div class="box-content p-absolute bottom-0 border text-center">
+                                    <div class="box-content-inner">
+                                        <div class="metas d-inline-block mb-15">
+                                            <span> app</span><span>tourism</span>
                                         </div>
+                                        <h4 class="sec-title text-uppercase letter-spacing-2">
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-7">Travel Notes</a>
+                                        </h4>
                                     </div>
                                 </div>
-                            </a>
-                            
+                            </div>
 
-                            <a href="https://pluralinvesting.com" target="_blank" class="work-item induction web p-10 border effect-ajax"
-                                    data-dsn-ajax="work">
-                                    <div class="work-item-inner background-section p-30">
-                                        <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                            <img class="cover-bg-img box-shadow" src="assets/img/elements/18.jpg"
-                                                alt="">
+                            <div class="swiper-slide over-hidden work-item h-70-v v-dark-head">
+                                <div class="box-img p-relative over-hidden before-z-index" data-overlay="5"
+                                    data-swiper-parallax-scale="0.95">
+                                    <img class="cover-bg-img"
+                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-dsn-src="assets/img/project/project3/1.jpg" alt="">
+                                </div>
+
+                                <div class="box-content p-absolute bottom-0 border text-center">
+                                    <div class="box-content-inner">
+                                        <div class="metas d-inline-block mb-15">
+                                            <span>SAAS</span> <span>fashion</span>
                                         </div>
-                                        <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                            <div class="effect-ajax d-flex align-items-center">
-                                                <div class="text">
-                                                    <div class="metas background-main d-inline-block mb-10">
-                                                        <span class="date v-light background-main">Plural Investing</span>
-                                                        <span>Asset management firm website</span>
-                                                    </div>
-                                                    <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                        visit
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                    </svg>
-                                                    </h4>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a> 
-
-                            <a href="https://hydracup.com/" target="_blank"
-                                class="work-item induction web ecommerce p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/4.jpg"
-                                            alt="" data-dsn-position="85% 50%">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Hydra Cup</span>
-                                                    <span>Single Product Shop</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
-
-                                        </div>
+                                        <h4 class="sec-title text-uppercase letter-spacing-2">
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-3">ESTUCY</a>
+                                        </h4>
                                     </div>
                                 </div>
-                            </a>
+                            </div>
 
-                            <a href="https://bengalimentalhealth.org" target="_blank" class="work-item induction web p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/5.jpg"
-                                            alt="">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">BMHM</span>
-                                                    <span>Consultant Website</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
+                            <div class="swiper-slide over-hidden work-item h-70-v v-dark-head">
+                                <div class="box-img p-relative over-hidden before-z-index" data-overlay="6"
+                                    data-swiper-parallax-scale="0.95">
+                                    <img class="cover-bg-img"
+                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-dsn-src="assets/img/project/project6/1.jpg" alt="">
+                                </div>
 
+                                <div class="box-content p-absolute bottom-0 border text-center">
+                                    <div class="box-content-inner">
+                                        <div class="metas d-inline-block mb-15">
+                                            <span>app</span> <span>brand</span>
                                         </div>
+                                        <h4 class="sec-title text-uppercase letter-spacing-2">
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-6">AMIRS</a>
+                                        </h4>
                                     </div>
                                 </div>
-                            </a>
+                            </div>
 
-                            <a href="https://leagroupbd.com" target="_blank" class="work-item web p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/6.jpg"
-                                            alt="">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Lea Group</span>
-                                                    <span>Company Website</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
+                            <div class="swiper-slide over-hidden work-item h-70-v v-dark-head">
+                                <div class="box-img p-relative over-hidden before-z-index" data-overlay="6"
+                                    data-swiper-parallax-scale="0.95">
+                                    <img class="cover-bg-img"
+                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-dsn-src="assets/img/project/project5/1.jpg" alt="">
+                                </div>
 
+                                <div class="box-content p-absolute bottom-0 border text-center">
+                                    <div class="box-content-inner">
+                                        <div class="metas d-inline-block mb-15">
+                                            <span>platform</span> <span>carbon</span>
                                         </div>
+                                        <h4 class="sec-title text-uppercase letter-spacing-2">
+                                            <a class="effect-ajax" data-dsn-ajax="work" href="/project-5">Floresta</a>
+                                        </h4>
                                     </div>
                                 </div>
-                            </a>
-
-                         <a href="https://www.himpanzee.com/" target="_blank" class="work-item induction web p-10 border effect-ajax"
-                                data-dsn-ajax="work">
-                                <div class="work-item-inner background-section p-30">
-                                    <div class="img-next-box before-z-index w-100 h-100 over-hidden">
-                                        <img class="cover-bg-img box-shadow" src="assets/img/elements/7.jpg"
-                                            alt="">
-                                    </div>
-                                    <div class="item-info p-relative w-100 d-flex align-items-end z-index-1 mt-20">
-                                        <div class="effect-ajax d-flex align-items-center">
-                                            <div class="text">
-                                                <div class="metas background-main d-inline-block mb-10">
-                                                    <span class="date v-light background-main">Himpanzee</span>
-                                                    <span>Eco startup website</span>
-                                                </div>
-                                                <h4 class="d-flex title-block sec-title text-uppercase letter-spacing-2">
-                                                    visit
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
-                                                </svg>
-                                                </h4>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </a> 
-                            
+                            </div>
                         </div>
+
+                        <div
+                            class="dsn-pagination dsn-container mt-30 d-flex justify-content-between align-items-center">
+                            <div class="swiper-prev">
+                                <div class="prev-container">
+                                    <div class="container-inner background-section">
+                                        <svg viewBox="0 0 6 10">
+                                            <path
+                                                d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
+                                            </path>
+                                        </svg>
+                                        <svg viewBox="0 0 6 10">
+                                            <path
+                                                d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
+                                            </path>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-pagination background-section"></div>
+
+                            <div class="swiper-next">
+
+                                <div class="next-container">
+                                    <div class="container-inner background-section">
+                                        <svg viewBox="0 0 6 10">
+                                            <path
+                                                d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
+                                            </path>
+                                        </svg>
+                                        <svg viewBox="0 0 6 10">
+                                            <path
+                                                d="M0,9.9C1.4,8.3,2.9,5.6,3.4,5C2.9,4.4,1.4,1.7,0,0.1L0.1,0C1.5,1.6,5.8,4.8,6,5 c-0.2,0.2-4.5,3.4-5.9,5L0,9.9z">
+                                            </path>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
-                </div>
-            </section>
+
+                </section>
                 <!-- ========== End Work Section ========== -->
 
                 <!-- ========== Section ========== -->
